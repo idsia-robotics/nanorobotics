@@ -128,6 +128,52 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
   
 # Publications
 
+## A Deep Learning-Based Face Mask Detector for Autonomous Nano-Drones
+
+E. AlNuaimi, E. Cereda, R. Psiakis, S. Sugumar, A. Giusti, and D. Palossi<br/>
+_in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, no. 11, pp. 12903-12904, 2022_
+
+<div>
+  <a href="{{'/assets/pdf/2022_aaai_student_abstract.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/21588">
+    <div class="csl-ieee"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #alnuaimi2022deep-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #alnuaimi2022deep-bibtex, #alnuaimi2022deep-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="alnuaimi2022deep-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="alnuaimi2022deep-show"><span /></label></div>
+  <div id="alnuaimi2022deep-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{alnuaimi2022deep,
+  title={A Deep Learning-Based Face Mask Detector for Autonomous Nano-Drones (Student Abstract)},
+  author={AlNuaimi, Eiman and Cereda, Elia and Psiakis, Rafail and Sugumar, Suresh and Giusti, Alessandro and Palossi, Daniele},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={11},
+  pages={12903--12904},
+  year={2022}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+   We present a deep neural network (DNN) for visually classifying whether a person is wearing a protective face mask. Our DNN can be deployed on a resource-limited, sub-10-cm nano-drone: this robotic platform is an ideal candidate to fly in human proximity and perform ubiquitous visual perception safely. This paper describes our pipeline, starting from the dataset collection; the selection and training of a full-precision (i.e., float32) DNN; a quantization phase (i.e., int8), enabling the DNN's deployment on a parallel ultra-low power (PULP) system-on-chip aboard our target nano-drone. Results demonstrate the efficacy of our pipeline with a mean area under the ROC curve score of 0.81, which drops by only ~2% when quantized to 8-bit for deployment.
+    </p>
+  </details>
+
+</div>
+
+
 ## Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs
 
 E. Cereda, M. Ferri, D. Mantegazza, N. Zimmerman, L. M. Gambardella, J. Guzzi, A. Giusti, and D. Palossi<br/>
@@ -141,17 +187,17 @@ _in 2021 17th IEEE International Conference on Distributed Computing in Sensor S
     <div class="csl-ieee"></div>
   </a>
   <style type="text/css">
-    input[type='checkbox']:checked ~ #palossi2021fully-bibtex {
+    input[type='checkbox']:checked ~ #cereda2021improving-bibtex {
         display: block;
     }
-    input[type='checkbox'] ~ #palossi2021fully-bibtex, #palossi2021fully-show {
+    input[type='checkbox'] ~ #cereda2021improving-bibtex, #cereda2021improving-show {
         display: none;
     }
   </style>
 
-  <input type="checkbox" id="palossi2021fully-show" />
-  <div class="csl-bibtex"><label class="csl-label" for="palossi2021fully-show"><span /></label></div>
-  <div id="palossi2021fully-bibtex">
+  <input type="checkbox" id="cereda2021improving-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2021improving-show"><span /></label></div>
+  <div id="cereda2021improving-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@inproceedings{cereda2021improving,
   title={Improving the generalization capability of DNNs for ultra-low power autonomous nano-UAVs},
