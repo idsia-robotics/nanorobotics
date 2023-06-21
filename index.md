@@ -130,7 +130,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 ## Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs
 
-E. Cereda, M. Ferri, D. Mantegazza, N. Zimmerman, L. M. Gambardella, J. Guzzi, A. Giusti and D. Palossi<br/>
+E. Cereda, M. Ferri, D. Mantegazza, N. Zimmerman, L. M. Gambardella, J. Guzzi, A. Giusti, and D. Palossi<br/>
 _in 2021 17th IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS), pp. 327-334, 2021_
 
 <div>
