@@ -128,6 +128,51 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
   
 # Publications
 
+## Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs
+
+E. Cereda, M. Ferri, D. Mantegazza, N. Zimmerman, L. M. Gambardella, J. Guzzi, A. Giusti and D. Palossi<br/>
+_in 2021 17th IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS), pp. 327-334, 2021_
+
+<div>
+  <a href="{{'/assets/pdf/2021_dcoss_domain_randomization.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/9600024">
+    <div class="csl-ieee"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #palossi2021fully-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #palossi2021fully-bibtex, #palossi2021fully-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="palossi2021fully-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="palossi2021fully-show"><span /></label></div>
+  <div id="palossi2021fully-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{cereda2021improving,
+  title={Improving the generalization capability of DNNs for ultra-low power autonomous nano-UAVs},
+  author={Cereda, Elia and Ferri, Marco and Mantegazza, Dario and Zimmerman, Nicky and Gambardella, Luca M and Guzzi, J{\'e}r{\^o}me and Giusti, Alessandro and Palossi, Daniele},
+  booktitle={2021 17th International Conference on Distributed Computing in Sensor Systems (DCOSS)},
+  pages={327--334},
+  year={2021},
+  organization={IEEE}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Deep neural networks (DNNs) are becoming the first-class solution for autonomous unmanned aerial vehicles (UAVs) applications, especially for tiny, resource-constrained, nano-UAVs, with a few tens of grams in weight and subten centimeters in diameter. DNN visual pipelines have been proven capable of delivering high intelligence aboard nanoUAVs, efficiently exploiting novel multi-core microcontroller units. However, one severe limitation of this class of solutions is the generalization challenge, i.e., the visual cues learned on the specific training domain hardly predict with the same accuracy on different ones. Ultimately, it results in very limited applicability of State-of-the-Art (SoA) autonomous navigation DNNs outside controlled environments. In this work, we tackle this problem in the context of the human pose estimation task with a SoA vision-based DNN [1]. We propose a novel methodology that leverages synthetic domain randomization by applying a simple but effective image background replacement technique to augment our training dataset. Our results demonstrate how the augmentation forces the learning process to focus on what matters most: the pose of the human subject. Our approach reduces the DNN’s mean square error — vs. a non-augmented baseline — by up to 40%, on a never-seen-before testing environment. Since our methodology tackles the DNN’s training stage, the improved generalization capabilities come at zero-cost for the computational/memory burdens aboard the nano-UAV.
+    </p>
+  </details>
+
+</div>
+
+
 ## Fully Onboard AI-powered Human-drone Pose Estimation on Ultra-low-power Autonomous Flying Nano-UAVs
 
 D. Palossi, N. Zimmerman, A. Burrello, F. Conti, H. Müller, L. M. Gambardella, L. Benini, A. Giusti, and J. Guzzi<br/>
