@@ -128,6 +128,55 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
   
 # Publications
 
+## Handling Pitch Variations for Visual Perception in MAVs: Synthetic Augmentation and State Fusion
+
+E. Cereda, D. Palossi, and A. Giusti<br/>
+_in Proceedings of the 13th International Micro Air Vehicle Conference, pp. 59–65, 2022_
+
+<div>
+  <a href="{{'/assets/pdf/2022_imav_pitch_augmentation.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://www.imavs.org/papers/2022/7.pdf">
+    <div class="csl-doi">DOI</div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #cereda2022handling-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #cereda2022handling-bibtex, #cereda2022handling-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2022handling-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2022handling-show"><span /></label></div>
+  <div id="cereda2022handling-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{cereda2022handling,
+author = {Elia Cereda and Daniele Palossi and Alessandro Giusti},
+editor = {G. de Croon and C. De Wagter},
+title = {Handling Pitch Variations for Visual Perception in MAVs: Synthetic Augmentation and State Fusion},
+year = {2022},
+month = {Sep},
+day = {12-16},
+booktitle = {13$^{th}$ International Micro Air Vehicle Conference},
+address = {Delft, the Netherlands},
+pages = {59--65},
+note = {Paper no. IMAV2022-7}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Variations in the pitch of a Micro Aerial Vehicle affect the geometry of the images acquired by its on-board cameras. We propose and evaluate two orthogonal approaches to handle this source of variability, in the context of visual perception using Convolutional Neural Networks. The first is a training data augmentation method that generates synthetic images simulating a different pitch than the one at which the original training image was acquired; the second is a neural network architecture that takes the drone’s estimated pitch as an auxiliary input. Real-robot quantitative experiments tackle the task of visually estimating the pose of a human from a nearby nanoquadrotor; in this context, the two proposed approaches yield significant performance improvements, up to +0.15 in the R2 regression score when applied together.
+    </p>
+  </details>
+
+</div>
+
+
 ## A Deep Learning-Based Face Mask Detector for Autonomous Nano-Drones
 
 E. AlNuaimi, E. Cereda, R. Psiakis, S. Sugumar, A. Giusti, and D. Palossi<br/>
@@ -185,6 +234,9 @@ _in 2021 17th IEEE International Conference on Distributed Computing in Sensor S
   </a>
   <a href="https://ieeexplore.ieee.org/abstract/document/9600024">
     <div class="csl-ieee"></div>
+  </a>
+  <a href="https://arxiv.org/abs/2110.14491">
+    <div class="csl-arxiv"></div>
   </a>
   <style type="text/css">
     input[type='checkbox']:checked ~ #cereda2021improving-bibtex {
