@@ -137,7 +137,7 @@ _in Proceedings of the 13th International Micro Air Vehicle Conference, pp. 59â€
   <a href="{{'/assets/pdf/2022_imav_pitch_augmentation.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-  <a href="https://www.imavs.org/papers/2022/7.pdf">
+  <a href="https://www.imavs.org/tag/imav2022/">
     <div class="csl-doi">DOI</div>
   </a>
   <style type="text/css">
