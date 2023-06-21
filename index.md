@@ -75,6 +75,12 @@ people:
     content: none;
   }
 
+  .feature__item img {
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: top;
+  }
+
   @media (min-width: 37.5em) {
     .feature__item {
       float: left;
@@ -105,12 +111,6 @@ people:
     .feature__item .feature__item-teaser {
       max-height: 200px;
       overflow: hidden
-    }
-
-    .feature__item img {
-      aspect-ratio: 1;
-      object-fit: cover;
-      object-position: top;
     }
   }
 </style>
