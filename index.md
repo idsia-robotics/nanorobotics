@@ -143,6 +143,9 @@ _in IEEE Internet of Things Journal, vol. 9, no. 3, pp. 1913-1929, 2021_
   <a href="https://arxiv.org/abs/2103.10873">
     <div class="csl-arxiv"></div>
   </a>
+  <a href="https://github.com/idsia-robotics/pulp-frontnet">
+    <div class="csl-github"></div>
+  </a>
   <style type="text/css">
     input[type='checkbox']:checked ~ #palossi2021fully-bibtex {
         display: block;
