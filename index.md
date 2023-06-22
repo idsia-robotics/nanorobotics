@@ -128,6 +128,92 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
   
 # Publications
 
+## Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs
+E. Cereda, L. Crupi, M. Risso, A. Burrello, L. Benini, A. Giusti, D. Jahier Pagliari, and D. Palossi<br/>
+_in Proceedings of the 2023 International Conference on Robotics and Automation (ICRA), 2023_
+
+<div>
+  <a href="{{'/assets/pdf/2023_icra_nas.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://arxiv.org/abs/2303.01931">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #cereda2023deep-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #cereda2023deep-bibtex, #cereda2023deep-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2023deep-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2023deep-show"><span /></label></div>
+  <div id="cereda2023deep-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{cereda2023deep,
+  author={Cereda, Elia and Crupi, Luca and Risso, Matteo and Burrello, Alessio and Benini, Luca and Giusti, Alessandro and Pagliari, Daniele Jahier and Palossi, Daniele},
+  booktitle={2023 International Conference on Robotics and Automation (ICRA)}, 
+  title={Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs}, 
+  year={2023}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Miniaturized autonomous unmanned aerial vehicles (UAVs) are an emerging and trending topic. With their form factor as big as the palm of one hand, they can reach spots otherwise inaccessible to bigger robots and safely operate in human surroundings. The simple electronics aboard such robots (sub-100mW) make them particularly cheap and attractive but pose significant challenges in enabling onboard sophisticated intelligence. In this work, we leverage a novel neural architecture search (NAS) technique to automatically identify several Pareto-optimal convolutional neural networks (CNNs) for a visual pose estimation task. Our work demonstrates how real-life and field-tested robotics applications can concretely leverage NAS technologies to automatically and efficiently optimize CNNs for the specific hardware constraints of small UAVs. We deploy several NAS-optimized CNNs and run them in closed-loop aboard a 27-g Crazyflie nano-UAV equipped with a parallel ultra-low power System-on-Chip. Our results improve the State-of-the-Art by reducing the in-field control error of 32% while achieving a real-time onboard inference-rate of ~10Hz@10mW and ~50Hz@90mW.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dVCScckvcg8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+## Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors
+S. Bonato, S. C. Lambertenghi, E. Cereda, A. Giusti, and D. Palossi<br/>
+_in Proceedings of the 2023 International Conference on Robotics and Automation (ICRA), 2023_
+
+<div>
+  <a href="{{'/assets/pdf/2023_icra_drone2drone.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://arxiv.org/abs/2303.01940">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #bonato2023ultra-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #bonato2023ultra-bibtex, #bonato2023ultra-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="bonato2023ultra-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="bonato2023ultra-show"><span /></label></div>
+  <div id="bonato2023ultra-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{bonato2023ultra,
+  author={Bonato, Stefano and Lambertenghi, Stefano Carlo and Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
+  booktitle={2023 International Conference on Robotics and Automation (ICRA)}, 
+  title={Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors}, 
+  year={2023}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Precise relative localization is a crucial functional block for swarm robotics. This work presents a novel autonomous end-to-end system that addresses the monocular relative localization, through deep neural networks (DNNs), of two peer nano-drones, i.e., sub-40g of weight and sub-100mW processing power. To cope with the ultra-constrained nano-drone platform, we propose a vertically-integrated framework, from the dataset collection to the final in-field deployment, including dataset augmentation, quantization, and system optimizations. Experimental results show that our DNN can precisely localize a 10cm-size target nano-drone by employing only low-resolution monochrome images, up to ~2m distance. On a disjoint testing dataset our model yields a mean R2 score of 0.42 and a root mean square error of 18cm, which results in a mean in-field prediction error of 15cm and in a closed-loop control error of 17cm, over a ~60s-flight test. Ultimately, the proposed system improves the State-of-the-Art by showing long-endurance tracking performance (up to 2min continuous tracking), generalization capabilities being deployed in a never-seen-before environment, and requiring a minimal power consumption of 95mW for an onboard real-time inference-rate of 48Hz.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pUGL1qu3Z1k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 ## Handling Pitch Variations for Visual Perception in MAVs: Synthetic Augmentation and State Fusion
 
 E. Cereda, D. Palossi, and A. Giusti<br/>
@@ -162,8 +248,7 @@ month = {Sep},
 day = {12-16},
 booktitle = {13$^{th}$ International Micro Air Vehicle Conference},
 address = {Delft, the Netherlands},
-pages = {59--65},
-note = {Paper no. IMAV2022-7}
+pages = {59--65}
 }</pre>
   </div>
 
