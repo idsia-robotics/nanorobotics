@@ -250,7 +250,7 @@ _in Proceedings of the 2023 IEEE International Symposium on Circuits and Systems
 <pre>@inproceedings{ciani2023cyber,
   title={Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case},
   author={Ciani, Maicol and Bonato, Stefano and Psiakis, Rafail and Garofalo, Angelo and Valente, Luca and Sugumar, Suresh and Giusti, Alessandro and Rossi, Davide and Palossi, Daniele},
-  booktitle={2023 International Symposium on Circuits and Systems (ISCAS)}, 
+  booktitle={2023 International Symposium on Circuits and Systems (ISCAS)},
   year={2023}
 }</pre>
   </div>
