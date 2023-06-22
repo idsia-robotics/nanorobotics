@@ -21,7 +21,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Nanorobotics Group"
-subtitle                 : "Research group on miniaturized unmanned aerial vehicles (nano-UAVs)"
+subtitle                 : "Research group on miniaturized Unmanned Aerial Vehicles (nano-UAVs)"
 title_separator          : "-"
 name                     : "IDSIA Nanorobotics"
 description              : "Website of the Nanorobotics Research Group at the Dalle Molle Institute for Artificial Intelligence (IDSIA)"
