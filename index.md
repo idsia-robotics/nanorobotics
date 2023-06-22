@@ -136,6 +136,9 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
   <a href="{{'/assets/pdf/2023_icra_nas.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
+  <a href="">
+    <div class="csl-ieee"></div>
+  </a>
   <a href="https://arxiv.org/abs/2303.01931">
     <div class="csl-arxiv"></div>
   </a>
@@ -178,6 +181,9 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
 <div>
   <a href="{{'/assets/pdf/2023_icra_drone2drone.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
+  </a>
+  <a href="">
+    <div class="csl-ieee"></div>
   </a>
   <a href="https://arxiv.org/abs/2303.01940">
     <div class="csl-arxiv"></div>
@@ -223,9 +229,7 @@ _in Proceedings of the 13th International Micro Air Vehicle Conference, pp. 59â€
   <a href="{{'/assets/pdf/2022_imav_pitch_augmentation.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-  <a href="https://www.imavs.org/tag/imav2022/">
-    <div class="csl-doi">DOI</div>
-  </a>
+  <a href="https://www.imavs.org/tag/imav2022/" onclick="outbound_link('https://www.imavs.org/tag/imav2022/'); return false;">DOI</a>
   <style type="text/css">
     input[type='checkbox']:checked ~ #cereda2022handling-bibtex {
         display: block;
