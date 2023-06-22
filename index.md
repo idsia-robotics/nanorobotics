@@ -243,7 +243,7 @@ _in Proceedings of the 2023 IEEE International Symposium on Circuits and Systems
     }
   </style>
 
-  <input type="checkbox" id="cereda2023deep-show" />
+  <input type="checkbox" id="ciani2023cyber-show" />
   <div class="csl-bibtex"><label class="csl-label" for="ciani2023cyber-show"><span /></label></div>
   <div id="ciani2023cyber-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
