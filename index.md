@@ -220,6 +220,52 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
 </div>
 
 
+## Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case
+M. Ciani, S. Bonato, R. Psiakis, A. Garofalo, L. Valente, S. Sugumar, A. Giusti, D. Rossi, and D. Palossi<br/>
+_in Proceedings of the 2023 IEEE International Symposium on Circuits and Systems (ISCAS), 2023_
+
+<div>
+  <a href="{{'/assets/pdf/2023_iscas_opentitan_uvc.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="">
+    <div class="csl-ieee"></div>
+  </a>
+  <a href="https://arxiv.org/abs/2303.16554">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #ciani2023cyber-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #ciani2023cyber-bibtex, #ciani2023cyber-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2023deep-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="ciani2023cyber-show"><span /></label></div>
+  <div id="ciani2023cyber-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{ciani2023cyber,
+  title={Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case},
+  author={Ciani, Maicol and Bonato, Stefano and Psiakis, Rafail and Garofalo, Angelo and Valente, Luca and Sugumar, Suresh and Giusti, Alessandro and Rossi, Davide and Palossi, Daniele},
+  booktitle={2023 International Symposium on Circuits and Systems (ISCAS)}, 
+  year={2023}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Autonomous Micro Aerial Vehicles (MAVs), with a form factor of 10cm in diameter, are an emerging technology thanks to the broad applicability enabled by their onboard intelligence. However, these platforms are strongly limited in the onboard power envelope for processing, i.e., less than a few hundred mW, which confines the onboard processors to the class of simple microcontroller units (MCUs). These MCUs lack advanced security features opening the way to a wide range of cyber security vulnerabilities, from the communication between agents of the same fleet to the onboard execution of malicious code. This work presents an open-source System on Chip (SoC) design that integrates a 64 bit Linux capable host processor accelerated by an 8 core 32 bit parallel programmable accelerator. The heterogeneous system architecture is coupled with a security enclave based on an open-source OpenTitan root of trust. To demonstrate our design, we propose a use case where OpenTitan detects a security breach on the SoC aboard the MAV and drives its exclusive GPIOs to start a LED blinking routine. This procedure embodies an unconventional visual communication between two palm-sized MAVs: the receiver MAV classifies the LED state of the sender (on or off) with an onboard convolutional neural network running on the parallel accelerator. Then, it reconstructs a high-level message in 1.3s, 2.3 times faster than current commercial solutions.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TClcuUWJe0U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 ## Handling Pitch Variations for Visual Perception in MAVs: Synthetic Augmentation and State Fusion
 
 E. Cereda, D. Palossi, and A. Giusti<br/>
