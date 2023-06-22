@@ -229,7 +229,9 @@ _in Proceedings of the 13th International Micro Air Vehicle Conference, pp. 59â€
   <a href="{{'/assets/pdf/2022_imav_pitch_augmentation.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
+  <div>
   <a href="https://www.imavs.org/tag/imav2022/" onclick="outbound_link('https://www.imavs.org/tag/imav2022/'); return false;">DOI</a>
+  </div>
   <style type="text/css">
     input[type='checkbox']:checked ~ #cereda2022handling-bibtex {
         display: block;
