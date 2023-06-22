@@ -354,14 +354,6 @@ ol li {
     color: white;
 }
 
-.csl-doi {
-    background-color: #12689B;
-}
-
-.csl-doi a {
-    color: white;
-}
-
 .csl-label {
     cursor: pointer;
     font-weight: 400;
@@ -435,5 +427,18 @@ ol li {
 }
 
 .csl-github a {
+   color: white;
+}
+
+.csl-doi {
+  width: 80px;
+  height: 27px;
+  line-height: 20px;
+  background: url(../images/doi_logo.png) no-repeat #fab608;
+  background-size: 70px 17px;
+  background-position: center;
+}
+
+.csl-doi a {
    color: white;
 }
