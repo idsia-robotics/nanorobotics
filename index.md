@@ -278,7 +278,7 @@ _in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, no. 
     <div class="csl-pdf"></div>
   </a>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/21588">
-    <div class="csl-ieee"></div>
+    <div class="csl-doi"></div>
   </a>
   <style type="text/css">
     input[type='checkbox']:checked ~ #alnuaimi2022deep-bibtex {
