@@ -125,6 +125,16 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 # People
 
 {% include feature_row id="people" class="people_feature_row" %}
+
+# News
+
+<figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
+## Jun 21 2023
+A new paper has just been accepted at [IROS'23](https://ieee-iros.org/). "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8).
+
+<figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
+## Jan 17 2023
+Two new papers have just been accepted at [ICRA'23](https://www.icra2023.org/). "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
   
 # Publications
 
