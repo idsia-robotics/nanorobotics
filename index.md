@@ -128,7 +128,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
-<figure style="width: 369px" class="align-right"><img src="/files/iros23.png"></figure>
+<figure style="width: 369px" class="margin-left: 300px"><img src="/files/iros23.png"></figure>
 ## Jun 21 2023
 A new paper has just been accepted at [IROS'23](https://ieee-iros.org/). "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8).
 
