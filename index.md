@@ -133,7 +133,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IROS'23](https://ieee-iros.org/). [arXiv preprint]() [demo-video](https://youtu.be/cxgk2rugLWA).
 
 <figure style="width: 30%" class="align-right"><img src="/files/hotchips23.png"></figure>
-## Jun 21, 2023
+## May 4, 2023
 We contributed to the novel paper "Shaheen: An Open, Secure, and Scalable RV64 SoC for Autonomous Nano-UAVs," just accepted at [HotChips'23](https://hotchips.org/).
 
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
