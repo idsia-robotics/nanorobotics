@@ -131,7 +131,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 ## Jun 29, 2023
 Our new paper, "Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones," has just been accepted at [ACM EWSN'23](https://events.dimes.unical.it/ewsn2023/). [arXiv preprint]() [demo-video]().
 
-<figure style="width: 30%" class="align-right"><img src="/files/iros23.png"></figure>
+<figure style="width: 30%" class="align-left"><img src="/files/iros23.png"></figure>
 ## Jun 21, 2023
 Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IEEE IROS'23](https://ieee-iros.org/). [arXiv preprint]() [demo-video](https://youtu.be/cxgk2rugLWA).
 
@@ -139,7 +139,7 @@ Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation 
 ## May 4, 2023
 We contributed to the novel paper "Shaheen: An Open, Secure, and Scalable RV64 SoC for Autonomous Nano-UAVs," just accepted at [HotChips'23](https://hotchips.org/).
 
-<figure style="width: 30%" class="align-right"><img src="/files/iscas23.png"></figure>
+<figure style="width: 30%" class="align-left"><img src="/files/iscas23.png"></figure>
 ## Jan 20, 2023
 We contributed to the novel paper "Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case," just accepted at [IEEE ISCAS'23](https://iscas2023.org/). [arXiv preprint](https://arxiv.org/abs/2303.16554) [demo-video](https://youtu.be/TClcuUWJe0U).
 
