@@ -129,7 +129,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 # News
 
 ## Jun 29, 2023
-Our new paper, "Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones," has just been accepted at [IEEE EWSN'23](https://events.dimes.unical.it/ewsn2023/). [arXiv preprint]() [demo-video]().
+Our new paper, "Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones," has just been accepted at [ACM EWSN'23](https://events.dimes.unical.it/ewsn2023/). [arXiv preprint]() [demo-video]().
 
 <figure style="width: 30%" class="align-right"><img src="/files/iros23.png"></figure>
 ## Jun 21, 2023
