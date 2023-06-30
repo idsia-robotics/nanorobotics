@@ -128,23 +128,17 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
-<p>
 <figure style="width: 30%" class="align-right"><img src="/files/iros23.png"></figure>
 ## Jun 21, 2023
 Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IROS'23](https://ieee-iros.org/). [arXiv preprint]() [demo-video](https://youtu.be/cxgk2rugLWA).
-</p>
 
-<p>
 <figure style="width: 30%" class="align-right"><img src="/files/hotchips23.png"></figure>
 ## May 4, 2023
 We contributed to the novel paper "Shaheen: An Open, Secure, and Scalable RV64 SoC for Autonomous Nano-UAVs," just accepted at [HotChips'23](https://hotchips.org/).
-</p>
 
-<p>
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
 ## Jan 17, 2023
 Two new papers have just been accepted at [ICRA'23](https://www.icra2023.org/). "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
-</p>
 
 # Publications
 
