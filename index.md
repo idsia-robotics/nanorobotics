@@ -157,7 +157,7 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
   <a href="{{'/assets/pdf/2023_icra_nas.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/document/10160369">
     <div class="csl-ieee"></div>
   </a>
   <a href="https://arxiv.org/abs/2303.01931">
@@ -178,9 +178,13 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@inproceedings{cereda2023deep,
   author={Cereda, Elia and Crupi, Luca and Risso, Matteo and Burrello, Alessio and Benini, Luca and Giusti, Alessandro and Pagliari, Daniele Jahier and Palossi, Daniele},
-  booktitle={2023 International Conference on Robotics and Automation (ICRA)}, 
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs}, 
-  year={2023}
+  year={2023},
+  volume={},
+  number={},
+  pages={6065-6071},
+  doi={10.1109/ICRA48891.2023.10160369}
 }</pre>
   </div>
 
@@ -203,7 +207,7 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
   <a href="{{'/assets/pdf/2023_icra_drone2drone.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/document/10161127">
     <div class="csl-ieee"></div>
   </a>
   <a href="https://arxiv.org/abs/2303.01940">
@@ -224,9 +228,13 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@inproceedings{bonato2023ultra,
   author={Bonato, Stefano and Lambertenghi, Stefano Carlo and Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
-  booktitle={2023 International Conference on Robotics and Automation (ICRA)}, 
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors}, 
-  year={2023}
+  year={2023},
+  volume={},
+  number={},
+  pages={3411-3417},
+  doi={10.1109/ICRA48891.2023.10161127}
 }</pre>
   </div>
 
