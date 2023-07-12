@@ -149,6 +149,55 @@ Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.or
 
 # Publications
 
+## Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones
+E. Cereda, A. Giusti, and D. Palossi<br/>
+_in Proceedings of the 2023 International Conference on Embedded Wireless Systems and Networks (EWSN), 2023_ [to appear]
+
+<div>
+  <a href="{{'/assets/pdf/2023_ewsn_secure_distributed.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+<!-- 
+  <a href="">
+    <div class="csl-ieee"></div>
+  </a>
+-->
+  <a href="https://arxiv.org/abs/2307.01559">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #cereda2023secure-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #cereda2023secure-bibtex, #cereda2023secure-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2023secure-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2023secure-show"><span /></label></div>
+  <div id="cereda2023secure-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{cereda2023secure,
+      title={Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones}, 
+      author={Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
+      year={2023},
+      eprint={2307.01559},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Palm-sized nano-drones are an appealing class of edge nodes, but their limited computational resources prevent running large deep-learning models onboard. Adopting an edge-fog computational paradigm, we can offload part of the computation to the fog; however, this poses security concerns if the fog node, or the communication link, can not be trusted. To tackle this concern, we propose a novel distributed edge-fog execution scheme that validates fog computation by redundantly executing a random subnetwork aboard our nano-drone. Compared to a State-of-the-Art visual pose estimation network that entirely runs onboard, a larger network executed in a distributed way improves the R2 score by +0.19; in case of attack, our approach detects it within 2s with 95% probability.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QwTiigAs4cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs
 E. Cereda, L. Crupi, M. Risso, A. Burrello, L. Benini, A. Giusti, D. Jahier Pagliari, and D. Palossi<br/>
 _in Proceedings of the 2023 International Conference on Robotics and Automation (ICRA), 2023_
