@@ -133,7 +133,7 @@ Our new paper, "Secure Deep Learning-based Distributed Intelligence on Pocket-si
 
 <figure style="width: 30%" class="align-left"><img src="/files/iros23.png"></figure>
 ## Jun 21, 2023
-Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IEEE IROS'23](https://ieee-iros.org/). [arXiv preprint](https://arxiv.org/abs/2308.01833) [demo-video](https://youtu.be/cxgk2rugLWA).
+Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IEEE IROS'23](https://ieee-iros.org/). [arXiv preprint](https://arxiv.org/abs/2308.01833) [demo-video](https://youtu.be/p4s2j0_6828).
 
 <figure style="width: 30%" class="align-right"><img src="/files/hotchips23.png"></figure>
 ## May 4, 2023
