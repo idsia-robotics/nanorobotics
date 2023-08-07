@@ -252,7 +252,7 @@ _in Proceedings of the 2023 International Conference on Embedded Wireless System
 
 ## Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs
 E. Cereda, L. Crupi, M. Risso, A. Burrello, L. Benini, A. Giusti, D. Jahier Pagliari, and D. Palossi<br/>
-_in Proceedings of the 2023 International Conference on Robotics and Automation (ICRA), 2023_
+_in Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA), pp. 6065-6071, 2023_
 
 <div>
   <a href="{{'/assets/pdf/2023_icra_nas.pdf'| relative_url }}">
@@ -302,7 +302,7 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
 
 ## Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors
 S. Bonato, S. C. Lambertenghi, E. Cereda, A. Giusti, and D. Palossi<br/>
-_in Proceedings of the 2023 International Conference on Robotics and Automation (ICRA), 2023_
+_in Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA), pp. 3411-3417, 2023_
 
 <div>
   <a href="{{'/assets/pdf/2023_icra_drone2drone.pdf'| relative_url }}">
@@ -352,13 +352,13 @@ _in Proceedings of the 2023 International Conference on Robotics and Automation 
 
 ## Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case
 M. Ciani, S. Bonato, R. Psiakis, A. Garofalo, L. Valente, S. Sugumar, A. Giusti, D. Rossi, and D. Palossi<br/>
-_in Proceedings of the 2023 IEEE International Symposium on Circuits and Systems (ISCAS), 2023_
+_in Proceedings of the 2023 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 1-5, 2023_
 
 <div>
   <a href="{{'/assets/pdf/2023_iscas_opentitan_uvc.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/document/10181732">
     <div class="csl-ieee"></div>
   </a>
   <a href="https://arxiv.org/abs/2303.16554">
@@ -378,10 +378,14 @@ _in Proceedings of the 2023 IEEE International Symposium on Circuits and Systems
   <div id="ciani2023cyber-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@inproceedings{ciani2023cyber,
-  title={Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case},
   author={Ciani, Maicol and Bonato, Stefano and Psiakis, Rafail and Garofalo, Angelo and Valente, Luca and Sugumar, Suresh and Giusti, Alessandro and Rossi, Davide and Palossi, Daniele},
-  booktitle={2023 International Symposium on Circuits and Systems (ISCAS)},
-  year={2023}
+  booktitle={2023 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case},
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ISCAS46773.2023.10181732}
 }</pre>
   </div>
 
