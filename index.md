@@ -154,7 +154,7 @@ L. Crupi, E. Cereda, A. Giusti, and D. Palossi<br/>
 _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_ [to appear]
 
 <div>
-  <a href="{{'/assets/pdf/2023_ewsn_secure_distributed.pdf'| relative_url }}">
+  <a href="{{'/assets/pdf/2023_iros_sim2real.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
 <!-- 
@@ -180,7 +180,7 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@misc{crupi2023sim,
       author={Crupi, Luca and Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
-      booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
       title={Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters}, 
       year={2023},
       volume={},
