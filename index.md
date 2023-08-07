@@ -133,7 +133,7 @@ Our new paper, "Secure Deep Learning-based Distributed Intelligence on Pocket-si
 
 <figure style="width: 30%" class="align-left"><img src="/files/iros23.png"></figure>
 ## Jun 21, 2023
-Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IEEE IROS'23](https://ieee-iros.org/). [arXiv preprint]() [demo-video](https://youtu.be/cxgk2rugLWA).
+Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IEEE IROS'23](https://ieee-iros.org/). [arXiv preprint](https://arxiv.org/abs/2308.01833) [demo-video](https://youtu.be/cxgk2rugLWA).
 
 <figure style="width: 30%" class="align-right"><img src="/files/hotchips23.png"></figure>
 ## May 4, 2023
@@ -148,6 +148,57 @@ We contributed to the novel paper "Cyber Security aboard Micro Aerial Vehicles: 
 Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.org/). "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
 
 # Publications
+
+## Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters
+L. Crupi, E. Cereda, A. Giusti, and D. Palossi<br/>
+_in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_ [to appear]
+
+<div>
+  <a href="{{'/assets/pdf/2023_ewsn_secure_distributed.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+<!-- 
+  <a href="">
+    <div class="csl-ieee"></div>
+  </a>
+-->
+  <a href="https://arxiv.org/abs/2308.01833">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #crupi2023sim-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #crupi2023sim-bibtex, #crupi2023sim-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="crupi2023sim-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="crupi2023sim-show"><span /></label></div>
+  <div id="crupi2023sim-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{crupi2023sim,
+      author={Crupi, Luca and Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
+      booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+      title={Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters}, 
+      year={2023},
+      volume={},
+      number={},
+      pages={},
+      doi={}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Nano-quadcopters are versatile platforms attracting the interest of both academia and industry. Their tiny form factor, i.e., 10 cm diameter, makes them particularly useful in narrow scenarios and harmless in human proximity. However, these advantages come at the price of ultra-constrained onboard computational and sensorial resources for autonomous operations. This work addresses the task of estimating human pose aboard nano-drones by fusing depth and images in a novel CNN exclusively trained in simulation yet capable of robust predictions in the real world. We extend a commercial off-the-shelf (COTS) Crazyflie nano-drone -- equipped with a 320×240 px camera and an ultra-low-power System-on-Chip -- with a novel multi-zone (8×8) depth sensor. We design and compare different deep-learning models that fuse depth and image inputs. Our models are trained exclusively on simulated data for both inputs, and transfer well to the real world: field testing shows an improvement of 58% and 51% of our depth+camera system w.r.t. a camera-only State-of-the-Art baseline on the horizontal and angular mean pose errors, respectively. Our prototype is based on COTS components, which facilitates reproducibility and adoption of this novel class of systems.
+    </p>
+  </details>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p4s2j0_6828" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones
 E. Cereda, A. Giusti, and D. Palossi<br/>
