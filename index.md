@@ -117,7 +117,7 @@ people:
 
 # About
 
-<figure style="width: 10%" class="align-right"><img src="/assets/images/nanorobotics_group.png"></figure>
+<figure style="width: 30%" class="align-right"><img src="/files/nanorobotics_group.png"></figure>
 The nanorobotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
 By leveraging Artificial Intelligence-based (AI) algorithms, some of the research areas encompass optimized ultra-low power embedded Cyber-Physical Systems (CPS), deep learning models for energy-efficient perception pipelines, multi-modal ultra-low power sensor fusion, Human-Robot Interaction (HRI) applications, and Cyber-secure systems for Microcontroller Units-class (MCUs).
 
