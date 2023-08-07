@@ -179,15 +179,13 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
   <div class="csl-bibtex"><label class="csl-label" for="crupi2023sim-show"><span /></label></div>
   <div id="crupi2023sim-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
-<pre>@inproceedings{crupi2023sim,
+<pre>@misc{crupi2023sim,
       author={Crupi, Luca and Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
-      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
       title={Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters}, 
       year={2023},
-      volume={},
-      number={},
-      pages={},
-      doi={}
+      eprint={2308.01833},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }</pre>
   </div>
 
@@ -231,8 +229,8 @@ _in Proceedings of the 2023 International Conference on Embedded Wireless System
   <div id="cereda2023secure-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@misc{cereda2023secure,
-      title={Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones}, 
       author={Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
+      title={Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones}, 
       year={2023},
       eprint={2307.01559},
       archivePrefix={arXiv},
