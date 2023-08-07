@@ -12,7 +12,7 @@ people:
     alt: Elia Cereda
     title: Elia Cereda
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
-  - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.jpg
+  - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.png
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
