@@ -7,7 +7,7 @@ people:
   - image_path: https://idsia-robotics.github.io/assets/images/daniele_palossi.png
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
-    excerpt: 'Senior Researcher, Group lead<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
+    excerpt: 'Senior Researcher,<br/> Group lead<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
   - image_path: https://idsia-robotics.github.io/assets/images/elia_cereda.jpg
     alt: Elia Cereda
     title: Elia Cereda
@@ -19,7 +19,7 @@ people:
   - image_path: https://idsia-robotics.github.io/assets/images/default_people.png
     alt: Lorenzo Scarciglia
     title: Lorenzo Scarciglia
-    excerpt: 'Research Assistant<br/>'
+    excerpt: 'Research Assistant<br/> [Webpage](https://www.linkedin.com/in/lorenzo-scarciglia-57301a220/)'
 ---
 
 <script type="text/javascript" async
@@ -35,13 +35,16 @@ people:
 
 <style>
   
-  body {text-align: justify}
+  body {
+    text-align: justify
+  }
 
   .feature__wrapper {
     border-bottom: none;
   }
 
   .feature__item{
+    text-align: left;
     margin-bottom: 0.3em;
   }
   .feature__item .archive__item{
@@ -89,11 +92,11 @@ people:
     .feature__item {
       float: left;
       margin-bottom: 0;
-      width: 32%; /* update depending on number of columns, 3: 32%, 4:  */
+      width: 24%; /* update depending on number of columns, 3: 32%, 4: 24% */
     }
   
     /* 4-column grid instead of 3-column */
-    /* .feature__item:nth-child(3n + 1) {
+    .feature__item:nth-child(3n + 1) {
       clear: none;
     }
 
@@ -110,7 +113,7 @@ people:
     .feature__item:nth-child(4n + 3) {
         clear: none;
         margin-left:1.6949152542%
-    } */
+    }
 
     .feature__item .feature__item-teaser {
       max-height: 200px;
