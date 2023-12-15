@@ -4,7 +4,7 @@ title: Nanorobotics Group
 header:
   image: /assets/images/header.jpg
 people:
-  - image_path: https://idsia-robotics.github.io/assets/images/daniele_palossi.png
+  - image_path: https://idsia-robotics.github.io/assets/images/daniele_palossi.jpg
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
     excerpt: 'Senior Researcher,<br/> Group lead<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
@@ -12,11 +12,11 @@ people:
     alt: Elia Cereda
     title: Elia Cereda
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
-  - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.png
+  - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.jpg
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
-  - image_path: https://idsia-robotics.github.io/assets/images/default_people.png
+  - image_path: https://idsia-robotics.github.io/assets/images/lorenzo_scarciglia.jpg
     alt: Lorenzo Scarciglia
     title: Lorenzo Scarciglia
     excerpt: 'Research Assistant<br/> [Webpage](https://www.linkedin.com/in/lorenzo-scarciglia-57301a220/)'
@@ -37,6 +37,11 @@ people:
   
   body {
     text-align: justify
+  }
+
+  .group-photo {
+    margin-top: -20px;
+    margin-bottom: 0;
   }
 
   .feature__wrapper {
@@ -124,7 +129,7 @@ people:
 
 # About
 
-<figure style="width: 30%" class="align-right"><img src="/files/nanorobotics_group.png"></figure>
+<figure style="width: 30%" class="group-photo align-right"><img src="assets/images/nanorobotics_group.jpg"></figure>
 The nanorobotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
 By leveraging Artificial Intelligence-based (AI) algorithms, some of the research areas encompass optimized ultra-low power embedded Cyber-Physical Systems (CPS), deep learning models for energy-efficient perception pipelines, multi-modal ultra-low power sensor fusion, Human-Robot Interaction (HRI) applications, and Cyber-secure systems for Microcontroller Units-class (MCUs).
 
