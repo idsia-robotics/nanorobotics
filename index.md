@@ -130,7 +130,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 # News
 
 ## Dec 15 2023
-Our new paper “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/p4s2j0_6828).
+Our new paper “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).
 This work describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft (NL)](https://www.imavs.org/2022/index.html).
 
 ## Sep 25 2023
