@@ -16,6 +16,10 @@ people:
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
+  - image_path: https://idsia-robotics.github.io/assets/images/default_people.png
+    alt: Lorenzo Scarciglia
+    title: Lorenzo Scarciglia
+    excerpt: 'Research Assistant<br/>'
 ---
 
 <script type="text/javascript" async
@@ -85,7 +89,7 @@ people:
     .feature__item {
       float: left;
       margin-bottom: 0;
-      width: 32%; /* update depending on number of columns */
+      width: 32%; /* update depending on number of columns, 3: 32%, 4:  */
     }
   
     /* 4-column grid instead of 3-column */
@@ -129,9 +133,10 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
+<figure style="width: 30%" class="align-left"><img src="/files/ral.png"></figure>
 ## Dec 15 2023
 Our new paper “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).
-This work describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft (NL)](https://www.imavs.org/2022/index.html).
+This work describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft, Netherlands](https://www.imavs.org/2022/index.html).
 
 ## Sep 25 2023
 Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
@@ -157,6 +162,55 @@ We contributed to the novel paper "Cyber Security aboard Micro Aerial Vehicles: 
 Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.org/). "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
 
 # Publications
+
+## A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing
+L. Lamberti, E. Cereda, G. Abbate, L. Bellone, V. J. Kartsch Morinigo, M. Barcis, A. Barcis, A. Giusti, F. Conti, D. Palossi<br/>
+_in IEEE Robotics and Automation Letters (RA-L), 2023_ [to appear]
+
+<div>
+  <a href="{{'/assets/pdf/2023_ral_imav.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+<!-- 
+  <a href="">
+    <div class="csl-ieee"></div>
+  </a>
+-->
+  <a href="https://arxiv.org/abs/2312.08991">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #lamberti2023imav-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #lamberti2023imav-bibtex, #lamberti2023imav-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="lamberti2023imav-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="lamberti2023imav-show"><span /></label></div>
+  <div id="lamberti2023imav-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{lamberti2023imav,
+      title={A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing}, 
+      author={Lorenzo Lamberti and Elia Cereda and Gabriele Abbate and Lorenzo Bellone and Victor Javier Kartsch Morinigo and Michał Barcis and Agata Barcis and Alessandro Giusti and Francesco Conti and Daniele Palossi},
+      year={2023},
+      eprint={2312.08991},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Autonomous drone racing competitions are a proxy to improve unmanned aerial vehicles' perception, planning, and control skills. The recent emergence of autonomous nano-sized drone racing imposes new challenges, as their ~10cm form factor heavily restricts the resources available onboard, including memory, computation, and sensors. This paper describes the methodology and technical implementation of the system winning the first autonomous nano-drone racing international competition: the IMAV 2022 Nanocopter AI Challenge. We developed a fully onboard deep learning approach for visual navigation trained only on simulation images to achieve this goal. Our approach includes a convolutional neural network for obstacle avoidance, a sim-to-real dataset collection procedure, and a navigation policy that we selected, characterized, and adapted through simulation and actual in-field experiments. Our system ranked 1st among seven competing teams at the competition. In our best attempt, we scored 115m of traveled distance in the allotted 5-minute flight, never crashing while dodging static and dynamic obstacles. Sharing our knowledge with the research community, we aim to provide a solid groundwork to foster future development in this field.
+    </p>
+  </details>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vHTAwUsj-nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters
 L. Crupi, E. Cereda, A. Giusti, and D. Palossi<br/>
@@ -207,7 +261,7 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
   <iframe width="560" height="315" src="https://www.youtube.com/embed/p4s2j0_6828" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-## Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones
+## Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones [Best Paper Award]
 E. Cereda, A. Giusti, and D. Palossi<br/>
 _in Proceedings of the 2023 International Conference on Embedded Wireless Systems and Networks (EWSN), 2023_ [to appear]
 
