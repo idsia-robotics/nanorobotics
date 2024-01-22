@@ -322,7 +322,7 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
 
 ## Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones [Best Paper Award]
 E. Cereda, A. Giusti, and D. Palossi<br/>
-_in Proceedings of the 2023 International Conference on Embedded Wireless Systems and Networks (EWSN), 2023_ [to appear]
+_in Proceedings of the 2023 International Conference on Embedded Wireless Systems and Networks (EWSN), 2023_
 
 <div>
   <a href="{{'/assets/pdf/2023_ewsn_secure_distributed.pdf'| relative_url }}">
