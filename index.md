@@ -141,6 +141,9 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
+## Jan 19, 2024
+We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation," just accepted at the IEEE Transactions on Circuits and Systems I [arXiv preprint](https://arxiv.org/abs/2401.03531).
+
 <figure style="width: 30%" class="align-left"><img src="/files/ral.png"></figure>
 ## Dec 15 2023
 Our new paper “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).
@@ -171,19 +174,65 @@ Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.or
 
 # Publications
 
+## A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation
+L. Valente, A. Nadalini, A. Veeran, M. Sinigaglia, B. Sa, N. Wistoff, Y. Tortorella, S. Benatti, R. Psiakis, A. Kulmala, B. Mohammad, S. Pinto, D. Palossi, L. Benini, and D. Rossi<br/>
+_in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
+
+<div>
+  <a href="{{'/assets/pdf/2021_dcoss_domain_randomization.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+<!-- 
+  <a href="https://ieeexplore.ieee.org/abstract/document/9600024">
+    <div class="csl-ieee"></div>
+  </a>
+-->
+  <a href="https://arxiv.org/abs/2401.03531">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #valente2024hetero-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #valente2024hetero-bibtex, #valente2024hetero-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="valente2024hetero-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="valente2024hetero-show"><span /></label></div>
+  <div id="valente2024hetero-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{valente2024hetero,
+  title={A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation}, 
+  author={Luca Valente and Alessandro Nadalini and Asif Veeran and Mattia Sinigaglia and Bruno Sa and Nils Wistoff and Yvan Tortorella and Simone Benatti and Rafail Psiakis and Ari Kulmala and Baker Mohammad and Sandro Pinto and Daniele Palossi and Luca Benini and Davide Rossi},
+  year={2024},
+  eprint={2401.03531},
+  archivePrefix={arXiv},
+  primaryClass={cs.AR}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    The rapid advancement of energy-efficient parallel ultra-low-power (ULP) microcontroller units (MCUs) is enabling the development of autonomous nano-sized unmanned aerial vehicles (nano-UAVs). These sub-10cm drones represent the next generation of unobtrusive robotic helpers and ubiquitous smart sensors. However, nano-UAVs face significant power and payload constraints while requiring advanced computing capabilities akin to standard drones, including real-time Machine Learning (ML) performance and the safe co-existence of general-purpose and real-time OSs. Although some advanced parallel ULP MCUs offer the necessary ML computing capabilities within the prescribed power limits, they rely on small main memories (<1MB) and microcontroller-class CPUs with no virtualization or security features, and hence only support simple bare-metal runtimes. In this work, we present Shaheen, a 9mm2 200mW SoC implemented in 22nm FDX technology. Differently from state-of-the-art MCUs, Shaheen integrates a Linux-capable RV64 core, compliant with the v1.0 ratified Hypervisor extension and equipped with timing channel protection, along with a low-cost and low-power memory controller exposing up to 512MB of off-chip low-cost low-power HyperRAM directly to the CPU. At the same time, it integrates a fully programmable energy- and area-efficient multi-core cluster of RV32 cores optimized for general-purpose DSP as well as reduced- and mixed-precision ML. To the best of the authors' knowledge, it is the first silicon prototype of a ULP SoC coupling the RV64 and RV32 cores in a heterogeneous host+accelerator architecture fully based on the RISC-V ISA. We demonstrate the capabilities of the proposed SoC on a wide range of benchmarks relevant to nano-UAV applications. The cluster can deliver up to 90GOp/s and up to 1.8TOp/s/W on 2-bit integer kernels and up to 7.9GFLOp/s and up to 150GFLOp/s/W on 16-bit FP kernels.
+    </p>
+  </details>
+
+</div>
+
 ## A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing
-L. Lamberti, E. Cereda, G. Abbate, L. Bellone, V. J. Kartsch Morinigo, M. Barcis, A. Barcis, A. Giusti, F. Conti, D. Palossi<br/>
-_in IEEE Robotics and Automation Letters (RA-L), 2023_ [to appear]
+L. Lamberti, E. Cereda, G. Abbate, L. Bellone, V. J. Kartsch Morinigo, M. Barcis, A. Barcis, A. Giusti, F. Conti, and D. Palossi<br/>
+_in IEEE Robotics and Automation Letters (RA-L), 2023_
 
 <div>
   <a href="{{'/assets/pdf/2023_ral_imav.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-<!-- 
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10380668">
     <div class="csl-ieee"></div>
   </a>
--->
   <a href="https://arxiv.org/abs/2312.08991">
     <div class="csl-arxiv"></div>
   </a>
@@ -201,12 +250,14 @@ _in IEEE Robotics and Automation Letters (RA-L), 2023_ [to appear]
   <div id="lamberti2023imav-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@misc{lamberti2023imav,
-      title={A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing}, 
-      author={Lorenzo Lamberti and Elia Cereda and Gabriele Abbate and Lorenzo Bellone and Victor Javier Kartsch Morinigo and Michał Barcis and Agata Barcis and Alessandro Giusti and Francesco Conti and Daniele Palossi},
-      year={2023},
-      eprint={2312.08991},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+      author={Lamberti, Lorenzo and Cereda, Elia and Abbate, Gabriele and Bellone, Lorenzo and Morinigo, Victor Javier Kartsch and Barciś, Michał and Barciś, Agata and Giusti, Alessandro and Conti, Francesco and Palossi, Daniele},
+      journal={IEEE Robotics and Automation Letters}, 
+      title={A Sim-to-Real Deep Learning-Based Framework for Autonomous Nano-Drone Racing}, 
+      year={2024},
+      volume={9},
+      number={2},
+      pages={1899-1906},
+      doi={10.1109/LRA.2024.3349814}}
 }</pre>
   </div>
 
@@ -222,17 +273,15 @@ _in IEEE Robotics and Automation Letters (RA-L), 2023_ [to appear]
 
 ## Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters
 L. Crupi, E. Cereda, A. Giusti, and D. Palossi<br/>
-_in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_ [to appear]
+_in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_
 
 <div>
   <a href="{{'/assets/pdf/2023_iros_sim2real.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-<!-- 
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10342162">
     <div class="csl-ieee"></div>
   </a>
--->
   <a href="https://arxiv.org/abs/2308.01833">
     <div class="csl-arxiv"></div>
   </a>
@@ -251,11 +300,13 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@misc{crupi2023sim,
       author={Crupi, Luca and Cereda, Elia and Giusti, Alessandro and Palossi, Daniele},
-      title={Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters}, 
+      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+      title={Sim-to-Real Vision-Depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters}, 
       year={2023},
-      eprint={2308.01833},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+      volume={},
+      number={},
+      pages={7711-7717},
+      doi={10.1109/IROS55552.2023.10342162}}
 }</pre>
   </div>
 
