@@ -179,7 +179,7 @@ L. Valente, A. Nadalini, A. Veeran, M. Sinigaglia, B. Sa, N. Wistoff, Y. Tortore
 _in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
 
 <div>
-  <a href="{{'/assets/pdf/2021_dcoss_domain_randomization.pdf'| relative_url }}">
+  <a href="{{'/assets/pdf/2024_tcas_hetero.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
 <!-- 
@@ -224,7 +224,7 @@ _in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
 
 ## A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing
 L. Lamberti, E. Cereda, G. Abbate, L. Bellone, V. J. Kartsch Morinigo, M. Barcis, A. Barcis, A. Giusti, F. Conti, and D. Palossi<br/>
-_in IEEE Robotics and Automation Letters (RA-L), 2023_
+_in IEEE Robotics and Automation Letters (RA-L), 2024_
 
 <div>
   <a href="{{'/assets/pdf/2023_ral_imav.pdf'| relative_url }}">
@@ -237,19 +237,19 @@ _in IEEE Robotics and Automation Letters (RA-L), 2023_
     <div class="csl-arxiv"></div>
   </a>
   <style type="text/css">
-    input[type='checkbox']:checked ~ #lamberti2023imav-bibtex {
+    input[type='checkbox']:checked ~ #lamberti2024imav-bibtex {
         display: block;
     }
-    input[type='checkbox'] ~ #lamberti2023imav-bibtex, #lamberti2023imav-show {
+    input[type='checkbox'] ~ #lamberti2024imav-bibtex, #lamberti2024imav-show {
         display: none;
     }
   </style>
 
-  <input type="checkbox" id="lamberti2023imav-show" />
-  <div class="csl-bibtex"><label class="csl-label" for="lamberti2023imav-show"><span /></label></div>
-  <div id="lamberti2023imav-bibtex">
+  <input type="checkbox" id="lamberti2024imav-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="lamberti2024imav-show"><span /></label></div>
+  <div id="lamberti2024imav-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
-<pre>@misc{lamberti2023imav,
+<pre>@misc{lamberti2024imav,
       author={Lamberti, Lorenzo and Cereda, Elia and Abbate, Gabriele and Bellone, Lorenzo and Morinigo, Victor Javier Kartsch and Barciś, Michał and Barciś, Agata and Giusti, Alessandro and Conti, Francesco and Palossi, Daniele},
       journal={IEEE Robotics and Automation Letters}, 
       title={A Sim-to-Real Deep Learning-Based Framework for Autonomous Nano-Drone Racing}, 
