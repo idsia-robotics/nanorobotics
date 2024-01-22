@@ -147,7 +147,7 @@ We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure N
 
 <figure style="width: 20%" class="align-right"><img src="/files/DATE-2024.png"></figure>
 ## Dec 18, 2023
-Our new paper, "Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones," has just been accepted at [ACM Design, Automation and Test in Europe Conference (DATE'24)](https://www.date-conference.com/).
+Our new paper, "Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones," in collaboration with [Politecnico di Torino](https://www.dauin.polito.it/), has just been accepted at [ACM Design, Automation and Test in Europe Conference (DATE'24)](https://www.date-conference.com/).
 
 <figure style="width: 30%" class="align-left"><img src="/files/ral.png"></figure>
 ## Dec 15, 2023
