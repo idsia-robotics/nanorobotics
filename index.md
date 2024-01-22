@@ -141,9 +141,13 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
-<figure style="width: 15%" class="align-right"><img src="/files/TCAS.jpeg"></figure>
+<figure style="width: 15%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
 ## Jan 19, 2024
 We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation," which was just accepted at the IEEE Transactions on Circuits and Systems I (TCAS-I). [arXiv preprint](https://arxiv.org/abs/2401.03531).
+
+<figure style="width: 15%" class="align-right"><img src="/files/DATE-2024.png"></figure>
+## Dec 18, 2023
+Our new paper, "Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones," has just been accepted at [ACM Design, Automation and Test in Europe Conference (DATE'24)](https://www.date-conference.com/).
 
 <figure style="width: 30%" class="align-left"><img src="/files/ral.png"></figure>
 ## Dec 15 2023
