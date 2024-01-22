@@ -141,7 +141,7 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
-<figure style="width: 10%" class="align-right"><img src="/files/TCAS.jpeg"></figure>
+<figure style="width: 15%" class="align-right"><img src="/files/TCAS.jpeg"></figure>
 ## Jan 19, 2024
 We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation," just accepted at the IEEE Transactions on Circuits and Systems I [arXiv preprint](https://arxiv.org/abs/2401.03531).
 
