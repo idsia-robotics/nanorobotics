@@ -141,6 +141,10 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/ral.png"></figure>
+## Jan 26, 2024
+Our new paper, “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task,” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint]() [video]().
+
 <figure style="width: 12%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
 ## Jan 19, 2024
 We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation," which was just accepted at the IEEE Transactions on Circuits and Systems I (TCAS-I). [arXiv preprint](https://arxiv.org/abs/2401.03531).
