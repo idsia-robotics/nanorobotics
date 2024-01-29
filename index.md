@@ -141,6 +141,10 @@ Thanks to the close partnership with Parallelel Ultra-low Power international re
 
 # News
 
+<figure style="width: 30%" class="align-left"><img src="/files/ICRA_2024.jpg"></figure>
+## Jan 29, 2024
+Two new papers have just been accepted at [IEEE ICRA'24](https://2024.ieee-icra.org/). "On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors," [arXiv preprint]() [demo-video]() and "High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks" [arXiv preprint]() [demo-video]().
+
 <figure style="width: 30%" class="align-right"><img src="/files/ral.png"></figure>
 ## Jan 26, 2024
 Our new paper, “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task,” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint]() [video]().
