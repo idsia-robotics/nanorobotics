@@ -287,7 +287,7 @@ _in IEEE Robotics and Automation Letters (RA-L), 2024_
 
 ## Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones
 B. A. Motetti, L. Crupi, M. O. Elshaigi, M. Risso, D. Jahier Pagliari, D. Palossi, and A. Burrello<br/>
-_in Proceedings of the 2024 Design, Automation and Test in Europe (DATE), 2024_
+_in Proceedings of the 2024 International Conference on Design, Automation and Test in Europe (DATE), 2024_
 
 <div>
   <a href="{{'/assets/pdf/2024_date_adaptive.pdf'| relative_url }}">
