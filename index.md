@@ -284,6 +284,51 @@ _in IEEE Robotics and Automation Letters (RA-L), 2024_
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vHTAwUsj-nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+## Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones
+B. A. Motetti and L. Crupi and M. O. Elshaigi and M. Risso and D. Jahier Pagliari and D. Palossi and A. Burrello<br/>
+_in Proceedings of the 2024 Design, Automation and Test in Europe (DATE), 2024_
+
+<div>
+  <a href="{{'/assets/pdf/2024_date_adaptive'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+<!--   <a href="https://ieeexplore.ieee.org/abstract/document/10342162">
+    <div class="csl-ieee"></div>
+  </a> -->
+  <a href="https://arxiv.org/abs/2401.15236">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #motetti2024adaptive-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #motetti2024adaptive-bibtex, #motetti2024adaptive-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="motetti2024adaptive-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="motetti2024adaptive-show"><span /></label></div>
+  <div id="motetti2024adaptive-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{motetti2024adaptive,
+      title={Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones}, 
+      author={Beatrice Alessandra Motetti and Luca Crupi and Mustafa Omer Mohammed Elamin Elshaigi and Matteo Risso and Daniele Jahier Pagliari and Daniele Palossi and Alessio Burrello},
+      year={2024},
+      eprint={2401.15236},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}}
+  }</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Sub-10cm diameter nano-drones are gaining momentum thanks to their applicability in scenarios prevented to bigger flying drones, such as in narrow environments and close to humans. However, their tiny form factor also brings their major drawback: ultra-constrained memory and processors for the onboard execution of their perception pipelines. Therefore, lightweight deep learning-based approaches are becoming increasingly popular, stressing how computational efficiency and energy-saving are paramount as they can make the difference between a fully working closed-loop system and a failing one. In this work, to maximize the exploitation of the ultra-limited resources aboard nano-drones, we present a novel adaptive deep learning-based mechanism for the efficient execution of a vision-based human pose estimation task. We leverage two State-of-the-Art (SoA) convolutional neural networks (CNNs) with different regression performance vs. computational costs trade-offs. By combining these CNNs with three novel adaptation strategies based on the output's temporal consistency and on auxiliary tasks to swap the CNN being executed proactively, we present six different systems. On a real-world dataset and the actual nano-drone hardware, our best-performing system, compared to executing only the bigger and most accurate SoA model, shows 28% latency reduction while keeping the same mean absolute error (MAE), 3% MAE reduction while being iso-latency, and the absolute peak performance, i.e., 6% better than SoA model.
+    </p>
+  </details>
+</div>
+
 ## Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters
 L. Crupi, E. Cereda, A. Giusti, and D. Palossi<br/>
 _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023_
