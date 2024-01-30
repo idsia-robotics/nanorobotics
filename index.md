@@ -290,7 +290,7 @@ B. A. Motetti, L. Crupi, M. O. Elshaigi, M. Risso, D. Jahier Pagliari, D. Paloss
 _in Proceedings of the 2024 Design, Automation and Test in Europe (DATE), 2024_
 
 <div>
-  <a href="{{'/assets/pdf/2024_date_adaptive'| relative_url }}">
+  <a href="{{'/assets/pdf/2024_date_adaptive.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
 <!--   <a href="https://ieeexplore.ieee.org/abstract/document/10342162">
