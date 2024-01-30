@@ -271,7 +271,7 @@ _in IEEE Robotics and Automation Letters (RA-L), 2024_
       volume={9},
       number={2},
       pages={1899-1906},
-      doi={10.1109/LRA.2024.3349814}}
+      doi={10.1109/LRA.2024.3349814}
 }</pre>
   </div>
 
@@ -318,7 +318,7 @@ _in Proceedings of the 2024 Design, Automation and Test in Europe (DATE), 2024_
       year={2024},
       eprint={2401.15236},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}}
+      primaryClass={cs.CV}
   }</pre>
   </div>
 
@@ -365,7 +365,7 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
       volume={},
       number={},
       pages={7711-7717},
-      doi={10.1109/IROS55552.2023.10342162}}
+      doi={10.1109/IROS55552.2023.10342162}
 }</pre>
   </div>
 
