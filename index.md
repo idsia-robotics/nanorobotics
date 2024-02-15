@@ -188,7 +188,7 @@ Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.or
 
 # Publications
 
-## Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task
+## Self-supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task
 M. Nava, N. Carlotti, L. Crupi, D. Palossi, and A. Giusti<br/>
 _in IEEE Robotics and Automation Letters (RA-L), 2024_
 
@@ -244,11 +244,9 @@ _in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
   <a href="{{'/assets/pdf/2024_tcas_hetero.pdf'| relative_url }}">
     <div class="csl-pdf"></div>
   </a>
-<!-- 
-  <a href="https://ieeexplore.ieee.org/abstract/document/9600024">
+  <a href="https://ieeexplore.ieee.org/document/10423921">
     <div class="csl-ieee"></div>
   </a>
--->
   <a href="https://arxiv.org/abs/2401.03531">
     <div class="csl-arxiv"></div>
   </a>
@@ -266,12 +264,14 @@ _in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
   <div id="valente2024hetero-bibtex">
 <!-- careful, whitespace inside <pre> appears as-is on the page -->
 <pre>@inproceedings{valente2024hetero,
-  title={A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation}, 
-  author={Luca Valente and Alessandro Nadalini and Asif Veeran and Mattia Sinigaglia and Bruno Sa and Nils Wistoff and Yvan Tortorella and Simone Benatti and Rafail Psiakis and Ari Kulmala and Baker Mohammad and Sandro Pinto and Daniele Palossi and Luca Benini and Davide Rossi},
+  title={A Heterogeneous RISC-V Based SoC for Secure Nano-UAV Navigation}, 
+  author={Valente, Luca and Nadalini, Alessandro and Veeran, Asif Hussain Chiralil and Sinigaglia, Mattia and Sá, Bruno and Wistoff, Nils and Tortorella, Yvan and Benatti, Simone and Psiakis, Rafail and Kulmala, Ari and Mohammad, Baker and Pinto, Sandro and Palossi, Daniele and Benini, Luca and Rossi, Davide},
+  journal={IEEE Transactions on Circuits and Systems I: Regular Papers}, 
   year={2024},
-  eprint={2401.03531},
-  archivePrefix={arXiv},
-  primaryClass={cs.AR}
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TCSI.2024.3359044}
 }</pre>
   </div>
 
@@ -674,7 +674,7 @@ pages = {59--65}
 </div>
 
 
-## A Deep Learning-Based Face Mask Detector for Autonomous Nano-Drones
+## A Deep Learning-based Face Mask Detector for Autonomous Nano-drones
 
 E. AlNuaimi, E. Cereda, R. Psiakis, S. Sugumar, A. Giusti, and D. Palossi<br/>
 _in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, no. 11, pp. 12903-12904, 2022_
