@@ -133,7 +133,7 @@ people:
 The nanorobotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
 By leveraging Artificial Intelligence-based (AI) algorithms, some of the research areas encompass optimized ultra-low power embedded Cyber-Physical Systems (CPS), deep learning models for energy-efficient perception pipelines, multi-modal ultra-low power sensor fusion, Human-Robot Interaction (HRI) applications, and Cyber-secure systems for Microcontroller Units-class (MCUs).
 
-Thanks to the close partnership with Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the nanorobotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
+Thanks to the close partnership with the Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the nanorobotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
 
 # People
 
@@ -188,7 +188,55 @@ Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.or
 
 # Publications
 
-## A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation
+## Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task
+M. Nava, N. Carlotti, L. Crupi, D. Palossi, and A. Giusti<br/>
+_in IEEE Robotics and Automation Letters (RA-L), 2024_
+
+<div>
+  <a href="{{'/assets/pdf/2024_tcas_hetero.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/10436339">
+    <div class="csl-ieee"></div>
+  </a>
+<!-- 
+  <a href="https://arxiv.org/abs/2401.03531">
+    <div class="csl-arxiv"></div>
+  </a>
+-->
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #nava2024self-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #nava2024self-bibtex, #nava2024self-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="nava2024self-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="nava2024self-show"><span /></label></div>
+  <div id="nava2024self-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{nava2024self,
+  title={Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task}, 
+  author={Nava, Mirko and Carlotti, Nicholas and Crupi, Luca and Palossi, Daniele and Giusti, Alessandro},
+  year={2024},
+  journal={IEEE Robotics and Automation Letters},
+  pages={1-8},
+  doi={10.1109/LRA.2024.3365973}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    We propose a novel self-supervised approach for learning to visually localize robots equipped with controllable LEDs. We rely on a few training samples labeled with position ground truth and many training samples in which only the LED state is known, whose collection is cheap. We show that using LED state prediction as a pretext task significantly helps to learn the visual localization end task. The resulting model does not require knowledge of LED states during inference. We instantiate the approach to visual relative localization of nano-quadrotors: experimental results show that using our pretext task significantly improves localization accuracy (from 68.3% to 76.2%) and outperforms alternative strategies, such as a supervised baseline, model pre-training, and an autoencoding pretext task. We deploy our model aboard a 27-g Crazyflie nano-drone, running at 21 fps, in a position-tracking task of a peer nano-drone. Our approach, relying on position labels for only 300 images, yields a mean tracking error of 4.2 cm versus 11.9 cm of a supervised baseline model trained without our pretext task. Videos and code of the proposed approach are available at https://github.com/idsia-robotics/leds-as-pretext.
+    </p>
+  </details>
+
+</div>
+
+## A Heterogeneous RISC-V-based SoC for Secure Nano-UAV Navigation
 L. Valente, A. Nadalini, A. Veeran, M. Sinigaglia, B. Sa, N. Wistoff, Y. Tortorella, S. Benatti, R. Psiakis, A. Kulmala, B. Mohammad, S. Pinto, D. Palossi, L. Benini, and D. Rossi<br/>
 _in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
 
