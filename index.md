@@ -143,11 +143,11 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 <figure style="width: 20%" class="align-left"><img src="/files/ICRA_2024.png"></figure>
 ## Jan 29, 2024
-Two new papers have just been accepted at [IEEE ICRA'24](https://2024.ieee-icra.org/). "On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors," [arXiv preprint]() [demo-video]() and "High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks" [arXiv preprint]() [demo-video]().
+Two new papers have just been accepted at [IEEE ICRA'24](https://2024.ieee-icra.org/). "On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors," [arXiv preprint](http://arxiv.org/abs/2403.04071) [demo-video](https://youtu.be/blOid4iUFAM) and "High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks" [arXiv preprint](http://arxiv.org/abs/2402.13756) [demo-video](https://www.youtube.com/watch?v=wMFYnv8UE80).
 
 <figure style="width: 30%" class="align-right"><img src="/files/ral.png"></figure>
 ## Jan 26, 2024
-Our new paper, “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task,” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint]() [video]().
+Our new paper, “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task,” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2402.09886) [repository](https://github.com/idsia-robotics/leds-as-pretext).
 
 <figure style="width: 12%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
 ## Jan 19, 2024
