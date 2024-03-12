@@ -188,6 +188,104 @@ Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.or
 
 # Publications
 
+## On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors
+E. Cereda, M. Rusci , A. Giusti, and D. Palossi<br/>
+_in Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024_
+
+<div>
+  <a href="{{'/assets/pdf/xxx.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <!-- 
+  <a href="https://ieeexplore.ieee.org/document/10160369">
+    <div class="csl-ieee"></div>
+  </a>
+  -->
+  <a href="https://arxiv.org/abs/2403.04071">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #cereda2024ondevice-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #cereda2024ondevice-bibtex, #cereda2024ondevice-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2024ondevice-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2024ondevice-show"><span /></label></div>
+  <div id="cereda2024ondevice-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{cereda2024ondevice,
+      title={On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors}, 
+      author={Elia Cereda and Manuele Rusci and Alessandro Giusti and Daniele Palossi},
+      year={2024},
+      eprint={2403.04071},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}</pre>
+  </div>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Sub-50g nano-drones are gaining momentum in both academia and industry. Their most compelling applications rely on onboard deep learning models for perception despite severe hardware constraints (i.e., sub-100mW processor). When deployed in unknown environments not represented in the training data, these models often underperform due to domain shift. To cope with this fundamental problem, we propose, for the first time, on-device learning aboard nano-drones, where the first part of the in-field mission is dedicated to self-supervised fine-tuning of a pre-trained convolutional neural network (CNN). Leveraging a real-world vision-based regression task, we thoroughly explore performance-cost trade-offs of the fine-tuning phase along three axes: i) dataset size (more data increases the regression performance but requires more memory and longer computation); ii) methodologies (e.g., fine-tuning all model parameters vs. only a subset); and iii) self-supervision strategy. Our approach demonstrates an improvement in mean absolute error up to 30% compared to the pre-trained baseline, requiring only 22s fine-tuning on an ultra-low-power GWT GAP9 System-on-Chip. Addressing the domain shift problem via on-device learning aboard nano-drones not only marks a novel result for hardware-limited robots but lays the ground for more general advancements for the entire robotics community.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://youtu.be/blOid4iUFAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+## High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks
+L. Crupi, A. Giusti, and D. Palossi<br/>
+_in Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024_
+
+<div>
+  <a href="{{'/assets/pdf/xxx.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <!-- 
+  <a href="https://ieeexplore.ieee.org/document/10160369">
+    <div class="csl-ieee"></div>
+  </a>
+  -->
+  <a href="https://arxiv.org/abs/2402.13756">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #crupi2024highthroughput-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #crupi2024highthroughput-bibtex, #crupi2024highthroughput-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="crupi2024highthroughput-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="crupi2024highthroughput-show"><span /></label></div>
+  <div id="crupi2024highthroughput-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@inproceedings{crupi2024highthroughput,
+      title={High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks}, 
+      author={Luca Crupi and Alessandro Giusti and Daniele Palossi},
+      year={2024},
+      eprint={2402.13756},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}</pre>
+  </div>
+  <details>
+    <summary>Abstract</summary>
+    <p>
+    Relative drone-to-drone localization is a fundamental building block for any swarm operations. We address this task in the context of miniaturized nano-drones, i.e., 10cm in diameter, which show an ever-growing interest due to novel use cases enabled by their reduced form factor. The price for their versatility comes with limited onboard resources, i.e., sensors, processing units, and memory, which limits the complexity of the onboard algorithms. A traditional solution to overcome these limitations is represented by lightweight deep learning models directly deployed aboard nano-drones. This work tackles the challenging relative pose estimation between nano-drones using only a gray-scale low-resolution camera and an ultra-low-power System-on-Chip (SoC) hosted onboard. We present a vertically integrated system based on a novel vision-based fully convolutional neural network (FCNN), which runs at 39Hz within 101mW onboard a Crazyflie nano-drone extended with the GWT GAP8 SoC. We compare our FCNN against three State-of-the-Art (SoA) systems. Considering the best-performing SoA approach, our model results in an R-squared improvement from 32 to 47% on the horizontal image coordinate and from 18 to 55% on the vertical image coordinate, on a real-world dataset of 30k images. Finally, our in-field tests show a reduction of the average tracking error of 37% compared to a previous SoA work and an endurance performance up to the entire battery lifetime of 4 minutes.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=wMFYnv8UE80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 ## Self-supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task
 M. Nava, N. Carlotti, L. Crupi, D. Palossi, and A. Giusti<br/>
 _in IEEE Robotics and Automation Letters (RA-L), 2024_
@@ -199,11 +297,9 @@ _in IEEE Robotics and Automation Letters (RA-L), 2024_
   <a href="https://ieeexplore.ieee.org/document/10436339">
     <div class="csl-ieee"></div>
   </a>
-<!-- 
-  <a href="https://arxiv.org/abs/2401.03531">
+  <a href="https://arxiv.org/abs/2402.09886">
     <div class="csl-arxiv"></div>
   </a>
--->
   <style type="text/css">
     input[type='checkbox']:checked ~ #nava2024self-bibtex {
         display: block;
@@ -233,8 +329,8 @@ _in IEEE Robotics and Automation Letters (RA-L), 2024_
     We propose a novel self-supervised approach for learning to visually localize robots equipped with controllable LEDs. We rely on a few training samples labeled with position ground truth and many training samples in which only the LED state is known, whose collection is cheap. We show that using LED state prediction as a pretext task significantly helps to learn the visual localization end task. The resulting model does not require knowledge of LED states during inference. We instantiate the approach to visual relative localization of nano-quadrotors: experimental results show that using our pretext task significantly improves localization accuracy (from 68.3% to 76.2%) and outperforms alternative strategies, such as a supervised baseline, model pre-training, and an autoencoding pretext task. We deploy our model aboard a 27-g Crazyflie nano-drone, running at 21 fps, in a position-tracking task of a peer nano-drone. Our approach, relying on position labels for only 300 images, yields a mean tracking error of 4.2 cm versus 11.9 cm of a supervised baseline model trained without our pretext task. Videos and code of the proposed approach are available at https://github.com/idsia-robotics/leds-as-pretext.
     </p>
   </details>
-
 </div>
+
 
 ## A Heterogeneous RISC-V-based SoC for Secure Nano-UAV Navigation
 L. Valente, A. Nadalini, A. Veeran, M. Sinigaglia, B. Sa, N. Wistoff, Y. Tortorella, S. Benatti, R. Psiakis, A. Kulmala, B. Mohammad, S. Pinto, D. Palossi, L. Benini, and D. Rossi<br/>
@@ -283,6 +379,7 @@ _in IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS), 2024_
   </details>
 
 </div>
+
 
 ## A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing
 L. Lamberti, E. Cereda, G. Abbate, L. Bellone, V. J. Kartsch Morinigo, M. Barcis, A. Barcis, A. Giusti, F. Conti, and D. Palossi<br/>
@@ -333,6 +430,7 @@ _in IEEE Robotics and Automation Letters (RA-L), 2024_
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vHTAwUsj-nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+
 ## Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones
 B. A. Motetti, L. Crupi, M. O. Elshaigi, M. Risso, D. Jahier Pagliari, D. Palossi, and A. Burrello<br/>
 _in Proceedings of the 2024 International Conference on Design, Automation and Test in Europe (DATE), 2024_
@@ -377,6 +475,7 @@ _in Proceedings of the 2024 International Conference on Design, Automation and T
     </p>
   </details>
 </div>
+
 
 ## Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters
 L. Crupi, E. Cereda, A. Giusti, and D. Palossi<br/>
@@ -427,6 +526,7 @@ _in Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Rob
   <iframe width="560" height="315" src="https://www.youtube.com/embed/p4s2j0_6828" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+
 ## Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones [Best Paper Award]
 E. Cereda, A. Giusti, and D. Palossi<br/>
 _in Proceedings of the 2023 International Conference on Embedded Wireless Systems and Networks (EWSN), 2023_
@@ -475,6 +575,7 @@ _in Proceedings of the 2023 International Conference on Embedded Wireless System
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/QwTiigAs4cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
 
 ## Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs
 E. Cereda, L. Crupi, M. Risso, A. Burrello, L. Benini, A. Giusti, D. Jahier Pagliari, and D. Palossi<br/>
