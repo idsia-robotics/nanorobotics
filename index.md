@@ -141,6 +141,10 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+## Mar 15 2024
+
+Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones” was accepted for publication in the Wi-DroIT 2024 workshop. 
+
 <figure style="width: 20%" class="align-left"><img src="/files/ICRA_2024.png"></figure>
 ## Jan 29, 2024
 Two new papers have just been accepted at [IEEE ICRA'24](https://2024.ieee-icra.org/). "On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors," [arXiv preprint](http://arxiv.org/abs/2403.04071) [demo-video](https://youtu.be/blOid4iUFAM) and "High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks" [arXiv preprint](http://arxiv.org/abs/2402.13756) [demo-video](https://www.youtube.com/watch?v=wMFYnv8UE80).
