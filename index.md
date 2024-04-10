@@ -246,7 +246,7 @@ _in Journal of Intelligent & Robotic Systems, vol. 110, 58 (2024)_
     </p>
   </details>
 
-  <iframe width="560" height="315" src="https://youtu.be/LX0seyXWQKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LX0seyXWQKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ## On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors
