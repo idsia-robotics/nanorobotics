@@ -142,6 +142,10 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 # News
 
 
+## Apr 10 2024
+
+Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the Journal of Intelligent & Robotic Systems, [paper](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
+
 ## Mar 15 2024
 
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
@@ -196,6 +200,54 @@ We contributed to the novel paper "Cyber Security aboard Micro Aerial Vehicles: 
 Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.org/). "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
 
 # Publications
+
+## Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics
+E. Cereda, S. Bonato, M. Nava, A. Giusti, and D. Palossi<br/>
+_in Journal of Intelligent & Robotic Systems, vol. 110, 58 (2024)_
+
+<div>
+  <a href="{{'/assets/pdf/2024_jirs_vision_state.pdf'| relative_url }}">
+    <div class="csl-pdf"></div>
+  </a>
+  <a href="https://link.springer.com/article/10.1007/s10846-024-02091-6">
+    <div class="csl-ieee"></div>
+  </a>
+  <a href="https://arxiv.org/abs/2206.06112">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #cereda2024vision-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #cereda2024vision-bibtex, #cereda2024vision-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2024vision-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2024vision-show"><span /></label></div>
+  <div id="cereda2024vision-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@article{cereda2024vision,
+  author={Cereda, Elia and Bonato, Stefano and Nava, Mirko and Giusti, Alessandro and Palossi, Daniele},
+  journal={Journal of Intelligent & Robotic Systems}, 
+  title={Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics},
+  year={2024},
+  volume={110},
+  number={58},
+  doi={10.1007/s10846-024-02091-6}
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+  Vision-based deep learning perception fulfills a paramount role in robotics, facilitating solutions to many challenging scenarios, such as acrobatic maneuvers of autonomous unmanned aerial vehicles (UAVs) and robot-assisted high-precision surgery. Control-oriented end-to-end perception approaches, which directly output control variables for the robot, commonly take advantage of the robot’s state estimation as an auxiliary input. When intermediate outputs are estimated and fed to a lower-level controller, i.e., mediated approaches, the robot’s state is commonly used as an input only for egocentric tasks, which estimate physical properties of the robot itself. In this work, we propose to apply a similar approach for the first time – to the best of our knowledge – to non-egocentric mediated tasks, where the estimated outputs refer to an external subject. We prove how our general methodology improves the regression performance of deep convolutional neural networks (CNNs) on a broad class of non-egocentric 3D pose estimation problems, with minimal computational cost. By analyzing three highly-different use cases, spanning from grasping with a robotic arm to following a human subject with a pocket-sized UAV, our results consistently improve the R regression metric, up to +0.51, compared to their stateless baselines. Finally, we validate the in-field performance of a closed-loop autonomous cm-scale UAV on the human pose estimation task. Our results show a significant reduction, i.e., 24% on average, on the mean absolute error of our stateful CNN, compared to a State-of-the-Art stateless counterpart.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://youtu.be/LX0seyXWQKI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors
 E. Cereda, M. Rusci , A. Giusti, and D. Palossi<br/>
