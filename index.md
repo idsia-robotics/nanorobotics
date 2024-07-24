@@ -169,7 +169,7 @@ Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains f
 <figure style="width: 30%" class="align-right"><img src="/files/logo_dcoss.png"></figure>
 
 ## Mar 15 2024
-Our paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the Wi-DroIT 2024 workshop. [arXiv preprint](https://arxiv.org/abs/2407.00815)
+Our paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the [Wi-DroIT 2024 Workshop](https://widroit2024.github.io/) in conjunction with the [IEEE International Conference on Distributed Computing in Smart Systems and Internet of Things (DCOSS)](https://dcoss.org/). [arXiv preprint](https://arxiv.org/abs/2407.00815)
 
 <figure style="width: 20%" class="align-left"><img src="/files/ICRA_2024.png"></figure>
 
