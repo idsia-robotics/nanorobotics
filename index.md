@@ -164,7 +164,7 @@ Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous 
 <figure style="width: 15%" class="align-left"><img src="/files/logo_erf_ver_01.png"></figure>
 
 ## Mar 15 2024
-Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024. [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
+Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the [European Robotics Forum 2024](https://erf2024.eu/). [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
 
 <figure style="width: 30%" class="align-right"><img src="/files/logo_dcoss.png"></figure>
 
