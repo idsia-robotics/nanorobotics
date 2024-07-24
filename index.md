@@ -151,7 +151,7 @@ Our new paper “Training on the Fly: On-device Self-supervised Learning aboard 
 ## Jul 5 2024
 Our new journal article, “Distilling Tiny and Ultra-fast Deep Neural Networks for Autonomous Navigation on Nano-UAVs," in collaboration with UNIBO, TII, and ETHZ, has just been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). [arXiv preprint](https://arxiv.org/abs/2407.12675)
 
-<figure style="width: 20%" class="align-left"><img src="/files/cvpr-logo.jpg"></figure>
+<figure style="width: 15%" class="align-left"><img src="/files/cvpr-logo.jpg"></figure>
 
 ## Jun 19 2024
 The paper "Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems," coauthored by a UNIBO, IDSIA, KUL, and ETHZ, got the **best paper award** at the 20th [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) in conjunction with the CVPR Conference in Seattle, Washington, United States. [CVF open access](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf)
@@ -161,7 +161,7 @@ The paper "Multi-resolution Rescored ByteTrack for Video Object Detection on Ult
 ## Apr 10 2024
 Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the [Springer Journal of Intelligent & Robotic Systems](https://link.springer.com/journal/10846). [Springer open access](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
 
-<figure style="width: 20%" class="align-left"><img src="/files/logo_erf_ver_01.png"></figure>
+<figure style="width: 15%" class="align-left"><img src="/files/logo_erf_ver_01.png"></figure>
 
 ## Mar 15 2024
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024. [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
