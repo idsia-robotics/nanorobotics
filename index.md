@@ -141,17 +141,17 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
-<figure style="width: 30%" class="align-left"><img src="/files/esweek-logo.png"></figure>
+<figure style="width: 10%" class="align-left"><img src="/files/esweek-logo.png"></figure>
 
 ## Jul 11 2024
 Our new paper “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
 
-<figure style="width: 30%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
+<figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
 
 ## Jul 5 2024
 Our new journal article, “Distilling Tiny and Ultra-fast Deep Neural Networks for Autonomous Navigation on Nano-UAVs," in collaboration with UNIBO, TII, and ETHZ, has just been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). [arXiv preprint](https://arxiv.org/abs/2407.12675)
 
-<figure style="width: 15%" class="align-left"><img src="/files/cvpr-logo.jpg"></figure>
+<figure style="width: 30%" class="align-left"><img src="/files/cvpr-logo.jpg"></figure>
 
 ## Jun 19 2024
 The paper "Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems," coauthored by a UNIBO, IDSIA, KUL, and ETHZ, got the **best paper award** at the 20th [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) in conjunction with the CVPR Conference in Seattle, Washington, United States. [CVF open access](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf)
@@ -166,7 +166,7 @@ Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous 
 ## Mar 15 2024
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024. [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
 
-<figure style="width: 20%" class="align-right"><img src="/files/logo_dcoss.png"></figure>
+<figure style="width: 30%" class="align-right"><img src="/files/logo_dcoss.png"></figure>
 
 ## Mar 15 2024
 Our paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the Wi-DroIT 2024 workshop. [arXiv preprint](https://arxiv.org/abs/2407.00815)
