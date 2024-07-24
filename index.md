@@ -144,7 +144,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 <figure style="width: 30%" class="align-right"><img src="/files/esweek-logo.png"></figure>
 
 ## Jul 11 2024
-Our new paper “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
+Our new paper “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
 
 <figure style="width: 30%" class="align-left"><img src="/files/ieee-logo-black.png"></figure>
 
@@ -159,17 +159,17 @@ The paper "Multi-resolution Rescored ByteTrack for Video Object Detection on Ult
 <figure style="width: 30%" class="align-left"><img src="/files/springer-logo.png"></figure>
 
 ## Apr 10 2024
-Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the Springer Journal of Intelligent & Robotic Systems, [paper](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
+Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the [Springer Journal of Intelligent & Robotic Systems](https://link.springer.com/journal/10846). [Springer open access](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
 
 <figure style="width: 20%" class="align-right"><img src="/files/logo_erf_ver_01.png"></figure>
 
 ## Mar 15 2024
-Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
+Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024. [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
 
 <figure style="width: 20%" class="align-left"><img src="/files/logo_dcoss.png"></figure>
 
 ## Mar 15 2024
-Our paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the Wi-DroIT 2024 workshop. 
+Our paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the Wi-DroIT 2024 workshop. [arXiv preprint](https://arxiv.org/abs/2407.00815)
 
 <figure style="width: 20%" class="align-right"><img src="/files/ICRA_2024.png"></figure>
 
