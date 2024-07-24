@@ -141,22 +141,35 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/esweek-logo.png"></figure>
+
+## Jul 11 2024
+Our new paper “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
+
+<figure style="width: 30%" class="align-left"><img src="/files/ieee-logo-black.png"></figure>
+
+## Jul 5 2024
+Our new journal article, “Distilling Tiny and Ultra-fast Deep Neural Networks for Autonomous Navigation on Nano-UAVs," in collaboration with UNIBO, TII, and ETHZ, has just been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). [arXiv preprint](https://arxiv.org/abs/2407.12675)
+
+<figure style="width: 20%" class="align-right"><img src="/files/cvpr-logo.png"></figure>
+
+## Jun 19 2024
+The paper "Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems," coauthored by a UNIBO, IDSIA, KUL, and ETHZ, got the **best paper award** at the 20th [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) in conjunction with the CVPR Conference in Seattle, Washington, United States. [CVF open access](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf)
+
+<figure style="width: 30%" class="align-left"><img src="/files/springer-logo.png"></figure>
 
 ## Apr 10 2024
-
-Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the Journal of Intelligent & Robotic Systems, [paper](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
+Our paper “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the Springer Journal of Intelligent & Robotic Systems, [paper](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
 
 <figure style="width: 20%" class="align-right"><img src="/files/logo_erf_ver_01.png"></figure>
 
 ## Mar 15 2024
-
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
 
-
 <figure style="width: 20%" class="align-left"><img src="/files/logo_dcoss.png"></figure>
-## Mar 15 2024
 
-Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones” was accepted for publication in the Wi-DroIT 2024 workshop. 
+## Mar 15 2024
+Our paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the Wi-DroIT 2024 workshop. 
 
 <figure style="width: 20%" class="align-right"><img src="/files/ICRA_2024.png"></figure>
 
@@ -164,23 +177,28 @@ Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low P
 Two new papers have just been accepted at [IEEE ICRA'24](https://2024.ieee-icra.org/). "On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors," [arXiv preprint](http://arxiv.org/abs/2403.04071) [demo-video](https://youtu.be/blOid4iUFAM) and "High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks" [arXiv preprint](http://arxiv.org/abs/2402.13756) [demo-video](https://www.youtube.com/watch?v=wMFYnv8UE80).
 
 <figure style="width: 30%" class="align-right"><img src="/files/ral.png"></figure>
+
 ## Jan 26, 2024
 Our new paper, “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task,” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2402.09886) [repository](https://github.com/idsia-robotics/leds-as-pretext).
 
 <figure style="width: 12%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
+
 ## Jan 19, 2024
 We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation," which was just accepted at the IEEE Transactions on Circuits and Systems I (TCAS-I). [arXiv preprint](https://arxiv.org/abs/2401.03531).
 
 <figure style="width: 20%" class="align-right"><img src="/files/DATE-2024.png"></figure>
+
 ## Dec 18, 2023
 Our new paper, "Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones," in collaboration with [Politecnico di Torino](https://www.dauin.polito.it/), has just been accepted at [ACM Design, Automation and Test in Europe Conference (DATE'24)](https://www.date-conference.com/). [arXiv preprint](https://arxiv.org/abs/2401.15236).
 
 <figure style="width: 30%" class="align-left"><img src="/files/ral.png"></figure>
+
 ## Dec 15, 2023
 Our new paper “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).
 This work describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft, Netherlands](https://www.imavs.org/2022/index.html).
 
 <figure style="width: 30%" class="align-right"><img src="/files/2023_spices_award.png"></figure>
+
 ## Sep 25, 2023
 Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
 Our work proposes a secure computational paradigm for deep learning workloads that allows resource-constrained devices, such as nano-drones, to take advantage of powerful remote computation nodes while preserving security against external attackers.
@@ -189,18 +207,22 @@ Our work proposes a secure computational paradigm for deep learning workloads th
 Our new paper, "Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones," has just been accepted at [ACM EWSN'23](https://events.dimes.unical.it/ewsn2023/). [arXiv preprint](https://arxiv.org/abs/2307.01559) [demo-video](https://youtu.be/QwTiigAs4cA).
 
 <figure style="width: 30%" class="align-left"><img src="/files/iros23.png"></figure>
+
 ## Jun 21, 2023
 Our new paper, "Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopters," has just been accepted at [IEEE IROS'23](https://ieee-iros.org/). [arXiv preprint](https://arxiv.org/abs/2308.01833) [demo-video](https://youtu.be/p4s2j0_6828).
 
 <figure style="width: 30%" class="align-right"><img src="/files/hotchips23.png"></figure>
+
 ## May 4, 2023
 We contributed to the novel paper "Shaheen: An Open, Secure, and Scalable RV64 SoC for Autonomous Nano-UAVs," just accepted at [HotChips'23](https://hotchips.org/).
 
 <figure style="width: 30%" class="align-left"><img src="/files/iscas23.png"></figure>
+
 ## Jan 20, 2023
 We contributed to the novel paper "Cyber Security aboard Micro Aerial Vehicles: An OpenTitan-based Visual Communication Use Case," just accepted at [IEEE ISCAS'23](https://iscas2023.org/). [arXiv preprint](https://arxiv.org/abs/2303.16554) [demo-video](https://youtu.be/TClcuUWJe0U).
 
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
+
 ## Jan 17, 2023
 Two new papers have just been accepted at [IEEE ICRA'23](https://www.icra2023.org/). "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
 
