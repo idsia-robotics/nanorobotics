@@ -16,10 +16,6 @@ people:
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
-  - image_path: https://idsia-robotics.github.io/assets/images/lorenzo_scarciglia.jpg
-    alt: Lorenzo Scarciglia
-    title: Lorenzo Scarciglia
-    excerpt: 'Research Assistant<br/> [Webpage](https://www.linkedin.com/in/lorenzo-scarciglia-57301a220/)'
 ---
 
 <script type="text/javascript" async
@@ -130,16 +126,21 @@ people:
 # About
 
 <figure style="width: 30%" class="group-photo align-right"><img src="assets/images/nanorobotics_group.jpg"></figure>
-The nanorobotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
+The NanoRobotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
 By leveraging Artificial Intelligence-based (AI) algorithms, some of the research areas encompass optimized ultra-low power embedded Cyber-Physical Systems (CPS), deep learning models for energy-efficient perception pipelines, multi-modal ultra-low power sensor fusion, Human-Robot Interaction (HRI) applications, and Cyber-secure systems for Microcontroller Units-class (MCUs).
 
-Thanks to the close partnership with the Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the nanorobotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
+Thanks to the close partnership with the Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the NanoRobotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
 
 # People
 
 {% include feature_row id="people" class="people_feature_row" %}
 
 # News
+
+<figure style="width: 10%" class="align-left"><img src="/files/ICRA_2025.png"></figure>
+
+## Jan 27 2025
+Our new paper, “A Map-free Deep Learning-based Framework for Gate-to-Gate Monocular Visual Navigation aboard Miniaturized Aerial Vehicles,” has just been accepted at [IEEE ICRA'25](https://2025.ieee-icra.org/). [arXiv preprint]() [demo-video]()
 
 <figure style="width: 10%" class="align-left"><img src="/files/esweek-logo.png"></figure>
 
