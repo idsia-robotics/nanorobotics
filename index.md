@@ -137,7 +137,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
-<figure style="width: 10%" class="align-left"><img src="/files/ICRA_2025.png"></figure>
+<figure style="width: 10%" class="align-right"><img src="/files/ICRA_2025.png"></figure>
 
 ## Jan 27 2025
 Our new paper, “A Map-free Deep Learning-based Framework for Gate-to-Gate Monocular Visual Navigation aboard Miniaturized Aerial Vehicles,” has just been accepted at [IEEE ICRA'25](https://2025.ieee-icra.org/). [arXiv preprint]() [demo-video]()
