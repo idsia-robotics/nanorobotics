@@ -137,6 +137,11 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+<figure style="width: 10%" class="align-left"><img src="/files/ACM.png"></figure>
+
+## Feb 02 2025
+Our new journal article, “An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs,” has just been accepted for publication in the [ACM Journal on Autonomous Transportation Systems](https://dl.acm.org/journal/jats). [arXiv preprint]()
+
 <figure style="width: 10%" class="align-right"><img src="/files/ICRA_2025.png"></figure>
 
 ## Jan 27 2025
@@ -145,32 +150,32 @@ Our new paper, “A Map-free Deep Learning-based Framework for Gate-to-Gate Mono
 <figure style="width: 10%" class="align-left"><img src="/files/esweek-logo.png"></figure>
 
 ## Jul 11 2024
-Our new paper “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
+Our new paper, “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW,” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
 
 <figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
 
 ## Jul 5 2024
-Our new journal article “Distilling Tiny and Ultra-fast Deep Neural Networks for Autonomous Navigation on Nano-UAVs" in collaboration with UNIBO, TII, and ETHZ, has just been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). [arXiv preprint](https://arxiv.org/abs/2407.12675)
+Our new journal article, “Distilling Tiny and Ultra-fast Deep Neural Networks for Autonomous Navigation on Nano-UAVs," in collaboration with UNIBO, TII, and ETHZ, has just been accepted for publication in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). [arXiv preprint](https://arxiv.org/abs/2407.12675)
 
 <figure style="width: 30%" class="align-left"><img src="/files/cvpr-logo.jpg"></figure>
 
 ## Jun 19 2024
-The paper "Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems," coauthored by a UNIBO, IDSIA, KUL, and ETHZ, got the **Best Paper Award** at the 20th [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) in conjunction with the CVPR Conference in Seattle, Washington, USA. [CVF open access](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf)
+The paper, "Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems," coauthored by a UNIBO, IDSIA, KUL, and ETHZ, got the **Best Paper Award** at the 20th [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) in conjunction with the CVPR Conference in Seattle, Washington, USA. [CVF open access](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf)
 
 <figure style="width: 30%" class="align-right"><img src="/files/springer-logo.png"></figure>
 
 ## Apr 10 2024
-Our new journal article “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics” has just been accepted for publication in the [Springer Journal of Intelligent & Robotic Systems](https://link.springer.com/journal/10846). [Springer open access](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
+Our new journal article, “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics,” has just been accepted for publication in the [Springer Journal of Intelligent & Robotic Systems](https://link.springer.com/journal/10846). [Springer open access](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
 
 <figure style="width: 15%" class="align-left"><img src="/files/logo_erf_ver_01.png"></figure>
 
 ## Mar 15 2024
-Our new paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the [European Robotics Forum 2024](https://erf2024.eu/). [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
+Our new paper, “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones,” was presented at the [European Robotics Forum 2024](https://erf2024.eu/). [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
 
 <figure style="width: 30%" class="align-right"><img src="/files/logo_dcoss.png"></figure>
 
 ## Mar 15 2024
-Our new paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones” was accepted for publication in the [Wi-DroIT 2024 Workshop](https://widroit2024.github.io/) in conjunction with the [IEEE International Conference on Distributed Computing in Smart Systems and Internet of Things (DCOSS)](https://dcoss.org/). [arXiv preprint](https://arxiv.org/abs/2407.00815)
+Our new paper, “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones,” was accepted for publication in the [Wi-DroIT 2024 Workshop](https://widroit2024.github.io/) in conjunction with the [IEEE International Conference on Distributed Computing in Smart Systems and Internet of Things (DCOSS)](https://dcoss.org/). [arXiv preprint](https://arxiv.org/abs/2407.00815)
 
 <figure style="width: 20%" class="align-left"><img src="/files/ICRA_2024.png"></figure>
 
@@ -195,13 +200,13 @@ Our new paper, "Adaptive Deep Learning for Efficient Visual Pose Estimation aboa
 <figure style="width: 30%" class="align-left"><img src="/files/ral.png"></figure>
 
 ## Dec 15, 2023
-Our new paper “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).
+Our new paper, “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing,” has just been accepted for publication in IEEE Robotics and Automation Letters (RA-L) [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).
 This work describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft, Netherlands](https://www.imavs.org/2022/index.html).
 
 <figure style="width: 30%" class="align-right"><img src="/files/2023_spices_award.png"></figure>
 
 ## Sep 25, 2023
-Our new paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the **Best Paper Award** at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the [ACM EWSN’23 conference](https://www.ewsn.org/) in Rende, Italy.
+Our new paper, “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones,” received the **Best Paper Award** at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the [ACM EWSN’23 conference](https://www.ewsn.org/) in Rende, Italy.
 Our work proposes a secure computational paradigm for deep learning workloads that allows resource-constrained devices, such as nano-drones, to take advantage of powerful remote computation nodes while preserving security against external attackers.
 
 ## Jun 29, 2023
