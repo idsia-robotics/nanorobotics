@@ -8,6 +8,10 @@ people:
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
     excerpt: 'Senior Researcher,<br/> Group lead<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
+  - image_path: https://idsia-robotics.github.io/assets/images/lorenzo_lamberti.jpeg
+    alt: Dr. Lorenzo Lamberti
+    title: Dr. Lorenzo Lamberti
+    excerpt: 'Postdoctoral Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=Ao6WHDgAAAAJ&hl=en)'
   - image_path: https://idsia-robotics.github.io/assets/images/elia_cereda.jpg
     alt: Elia Cereda
     title: Elia Cereda
