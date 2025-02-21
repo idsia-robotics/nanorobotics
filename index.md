@@ -144,7 +144,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 <figure style="width: 10%" class="align-left"><img src="/files/ACM.png"></figure>
 
 ## Feb 02 2025
-Our new journal article, “An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs,” has just been accepted for publication in the [ACM Journal on Autonomous Transportation Systems](https://dl.acm.org/journal/jats). [arXiv preprint]()
+Our new journal article, “An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs,” has just been accepted for publication in the [ACM Journal on Autonomous Transportation Systems](https://dl.acm.org/journal/jats). [arXiv preprint](https://arxiv.org/abs/2502.14455)
 
 <figure style="width: 10%" class="align-right"><img src="/files/ICRA_2025.png"></figure>
 
@@ -154,7 +154,7 @@ Our new paper, “A Map-free Deep Learning-based Framework for Gate-to-Gate Mono
 <figure style="width: 10%" class="align-left"><img src="/files/esweek-logo.png"></figure>
 
 ## Jul 11 2024
-Our new paper, “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW,” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint]()
+Our new paper, “Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20mW,” has just been accepted for publication in the [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)](https://ieee-ceda.org/publications/tcad) and for oral presentation at [CODES+ISSS'24](https://esweek.org/codes-isss/) during the next [ESWEEK](https://esweek.org/). [arXiv preprint](https://arxiv.org/abs/2408.03168)
 
 <figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
 
