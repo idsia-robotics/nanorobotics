@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Nanorobotics Group
+title: Nano-Robotics Group
 header:
   image: /assets/images/header.jpg
 people:
@@ -129,17 +129,27 @@ people:
 
 # About
 
-<figure style="width: 30%" class="group-photo align-right"><img src="assets/images/nanorobotics_group.jpg"></figure>
-The NanoRobotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
+<!--<figure style="width: 30%" class="group-photo align-right"><img src="assets/images/nanorobotics_group.jpg"></figure>-->
+The Nano-Robotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
 By leveraging Artificial Intelligence-based (AI) algorithms, some of the research areas encompass optimized ultra-low power embedded Cyber-Physical Systems (CPS), deep learning models for energy-efficient perception pipelines, multi-modal ultra-low power sensor fusion, Human-Robot Interaction (HRI) applications, and Cyber-secure systems for Microcontroller Units-class (MCUs).
 
-Thanks to the close partnership with the Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the NanoRobotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
+Thanks to the close partnership with the Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the Nano-Robotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
 
 # People
 
 {% include feature_row id="people" class="people_feature_row" %}
 
 # News
+
+<figure style="width: 10%" class="align-left"><img src="/files/ifac-logo.png"></figure>
+
+## Feb 19 2026
+Our journal article “Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs" has been accepted for publication in the [IFAC Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice) journal. [arXiv preprint](https://arxiv.org/abs/2512.14450)
+
+<figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
+
+## Dec 01 2025
+Our new journal article, “Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs," in collaboration with UNIBO, KU Leuven, and ETHZ, has been accepted for publication in the [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/abstract/document/11271766). [arXiv preprint](https://arxiv.org/abs/2512.00086)
 
 <figure style="width: 10%" class="align-left"><img src="/files/ACM.png"></figure>
 
