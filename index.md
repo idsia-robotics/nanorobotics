@@ -20,6 +20,10 @@ people:
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
+  - image_path: https://idsia-robotics.github.io/assets/images/default_people.png
+    alt: Ilenia Carboni
+    title: Ilenia Carboni
+    excerpt: 'PhD Student<br/> [Webpage](https://ileniacarboni.github.io)'
 ---
 
 <script type="text/javascript" async
