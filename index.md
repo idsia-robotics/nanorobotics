@@ -144,7 +144,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 <figure style="width: 10%" class="align-left"><img src="assets/images/ifac_logo.png"></figure>
 
 ## Feb 19 2026
-Our journal article “Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs" has been accepted for publication in the [IFAC Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice) journal. [arXiv preprint](https://arxiv.org/abs/2512.14450)
+Our journal article “Nonlinear System Identification for a Nano-drone Benchmark" has been accepted for publication in the [IFAC Control Engineering Practice](https://www.sciencedirect.com/journal/control-engineering-practice) journal. [arXiv preprint](https://arxiv.org/abs/2512.14450)
 
 <figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
 
