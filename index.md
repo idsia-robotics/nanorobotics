@@ -156,8 +156,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 Our group was recently awarded competitive funding for three research projects:
 
  * **SNSF Project Funding** "RoboMix2: Mixed Event-frame-based On-device Learning on Mixed Spiking-artificial Neural Networks for Robotics" in collaboration with ETH Zurich and University of Bologna with a total budget of CHF 1.6M. 
-   The project aims to develop an ultra-low-power neuromorphic computing platform for miniaturized robots, integrating mixed event-frame sensing, hybrid SNN–ANN processing, and on-device continual TinyML learning through hardware–software co-design.
-   The system will enable energy-efficient, low-latency perception and adaptation on resource-constrained platforms, demonstrated through visual-odometry applications on both ground and nano-aerial robots, with broader applicability to embedded edge intelligence and autonomous systems.
+   The project aims to develop an ultra-low-power neuromorphic computing platform for visual odometry on both ground and aerial miniaturized robots, integrating mixed event-frame sensing, hybrid SNN–ANN processing, and on-device continual TinyML learning through hardware–software co-design.
    [SNSF](https://data.snf.ch/grants/grant/10004854)
  * **EU Interreg project** "ALP-AI" in collaboration with Politecnico di Milano, ARPA Lombardia, Parco Regionale Campo dei Fiori, and the Cantonal Phytosanitary Service of Canton Ticino.
    IDSIA is the Swiss leader in this project which aims to strengthen the protection and preservation of nature, biodiversity, and green infrastructure, including in urban areas, and reduce all forms of pollution.
