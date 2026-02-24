@@ -100,7 +100,7 @@ people:
   @media (min-width: 37.5em) {
     .feature__item {
       float: left;
-      margin-bottom: 0;
+      margin-bottom: 1.5em;
       width: 30%; /* update depending on number of columns, 3: 30%, 4: 24% */
     }
   
