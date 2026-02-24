@@ -101,10 +101,11 @@ people:
     .feature__item {
       float: left;
       margin-bottom: 0;
-      width: 24%; /* update depending on number of columns, 3: 32%, 4: 24% */
+      width: 30%; /* update depending on number of columns, 3: 30%, 4: 24% */
     }
   
     /* 4-column grid instead of 3-column */
+    /*
     .feature__item:nth-child(3n + 1) {
       clear: none;
     }
@@ -123,6 +124,7 @@ people:
         clear: none;
         margin-left:1.6949152542%
     }
+    */
 
     .feature__item .feature__item-teaser {
       max-height: 200px;
