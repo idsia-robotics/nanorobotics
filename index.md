@@ -145,6 +145,19 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+## Feb 24 2026
+Our group was recently awarded competitive funding for three research projects:
+
+ * SNSF Project Funding "RoboMix2: Mixed Event-frame-based On-device Learning on Mixed Spiking-artificial Neural Networks for Robotics" in collaboration with ETH Zurich and University of Bologna with a total budget of CHF 1.6M. [SNSF](https://data.snf.ch/grants/grant/10004854)
+ * IFAB project "ADAPT-AI: Adaptive Edge Intelligence for Complex Environments". The project aims to develop a multimodal Edge-AI platform based on architectures characterized by low computational capacity, low energy consumption, and low cost, enabling local processing on sensor nodes deployed in complex environments.
+ * Interreg project "ALP-AI" in collaboration with Politecnico di Milano, ARPA Lombardia, Parco Regionale Campo dei Fiori, and the Cantonal Phytosanitary Service of Canton Ticino. The project goal is to strengthen the protection and preservation of nature, biodiversity, and green infrastructure, including in urban areas, and reduce all forms of pollution.
+
+<figure style="width: 20%; flex-wrap: nowrap; align-items: center; justify-content: flex-start; gap: 2em;" class="align-center">
+  <img src="assets/images/snsf_logo.png">
+  <img src="assets/images/ifab_logo.png">
+  <img src="assets/images/interreg_logo.png">
+</figure>
+
 <figure style="width: 10%" class="align-left"><img src="assets/images/ifac_logo.png"></figure>
 
 ## Feb 19 2026
