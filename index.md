@@ -145,13 +145,14 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+## Feb 24 2026
+
 <figure style="width: 20%; gap: 10px; display: flex;" class="align-right">
   <img src="assets/images/snsf_logo.png">
   <img src="assets/images/interreg_logo.png">
   <img src="assets/images/ifab_logo.png">
 </figure>
 
-## Feb 24 2026
 Our group was recently awarded competitive funding for three research projects:
 
  * **SNSF Project Funding** "RoboMix2: Mixed Event-frame-based On-device Learning on Mixed Spiking-artificial Neural Networks for Robotics" in collaboration with ETH Zurich and University of Bologna with a total budget of CHF 1.6M. [SNSF](https://data.snf.ch/grants/grant/10004854)
