@@ -152,7 +152,7 @@ Our group was recently awarded competitive funding for three research projects:
  * **EU Interreg project** "ALP-AI" in collaboration with Politecnico di Milano, ARPA Lombardia, Parco Regionale Campo dei Fiori, and the Cantonal Phytosanitary Service of Canton Ticino. IDSIA is the Swiss leader in this project which aims to strengthen the protection and preservation of nature, biodiversity, and green infrastructure, including in urban areas, and reduce all forms of pollution.
  * **IFAB project** "ADAPT-AI: Adaptive Edge Intelligence for Complex Environments". The project aims to develop a multimodal Edge-AI platform based on architectures characterized by low computational capacity, low energy consumption, and low cost, enabling local processing on sensor nodes deployed in complex environments.
 
-<figure style="width: 20%; flex-wrap: nowrap; align-items: center; justify-content: flex-start; gap: 2em;">
+<figure style="width: 20%; gap: 10px; display: flex;" class="align-right">
   <img src="assets/images/snsf_logo.png">
   <img src="assets/images/interreg_logo.png">
   <img src="assets/images/ifab_logo.png">
