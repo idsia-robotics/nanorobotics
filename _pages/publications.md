@@ -3,8 +3,19 @@ layout: splash
 author_profile: false
 classes: wide
 title: "Publications"
-permalink: /nanorobotics/publications/
+permalink: /publications/
 ---
+
+<script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/javascript" src="https://npmcdn.com/flickity@2/dist/flickity.pkgd.js"></script>
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link rel="stylesheet" href="{{'/assets/css/flickity.css'| relative_url }}">
+<link rel="stylesheet" href="{{'/assets/css/csl-blocks.css'| relative_url }}">
 
 # Publications
 
