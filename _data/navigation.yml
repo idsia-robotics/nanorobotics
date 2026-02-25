@@ -4,7 +4,7 @@ main:
   - title: "News"
     url: "#news"
   - title: "Publications"
-    url: "#publications"
+    url: "/publications"
   - title: "Robotics Lab"
     url: "https://idsia-robotics.github.io/"
   - title: "IDSIA"
