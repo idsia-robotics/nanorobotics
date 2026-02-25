@@ -147,6 +147,11 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+## Feb 25 2025
+Two papers from our group accepted at [ICRA 2026](https://2026.ieee-icra.org/):
+- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones," in collaboration with University of Bologna and ETH Zurich.
+- “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency,” in collaboration with University of Milan.
+
 ## Feb 24 2026
 
 <figure style="width: 20%; gap: 10px; display: flex;" class="align-right">
