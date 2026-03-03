@@ -19,6 +19,48 @@ permalink: /publications/
 
 # Publications
 
+## Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones
+I. Carboni*, E. Cereda*, L. Lamberti*, D. Malpetti, F. Conti, and D. Palossi<br/>
+To appear in _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA), 2026_
+
+<div>
+  <a href="https://arxiv.org/abs/2603.01850">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #carboni2026tinydronerf-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #carboni2026tinydronerf-bibtex, #carboni2026tinydronerf-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="carboni2026tinydronerf-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="carboni2026tinydronerf-show"><span /></label></div>
+  <div id="carboni2026tinydronerf-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{carboni2026tinydronerftinyneuralradiance,
+      title={Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones},
+      author={Ilenia Carboni and Elia Cereda and Lorenzo Lamberti and Daniele Malpetti and Francesco Conti and Daniele Palossi},
+      year={2026},
+      eprint={2603.01850},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.01850},
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+  Sub-30g nano-sized aerial robots can leverage their agility and form factor to autonomously explore cluttered and narrow environments, like in industrial inspection and search and rescue missions. However, the price for their tiny size is a strong limit in their resources, i.e., sub-100 mW microcontroller units (MCUs) delivering ∼100 GOps/s at best, and memory budgets well below 100 MB. Despite these strict constraints, we aim to enable complex vision-based tasks aboard nano-drones, such as dense 3D scene reconstruction: a key robotic task underlying fundamental capabilities like spatial awareness and motion planning. Top-performing 3D reconstruction methods leverage neural radiance fields (NeRF) models, which require GBs of memory and massive computation, usually delivered by high-end GPUs consuming 100s of Watts. Our work introduces Tiny-DroNeRF, a lightweight NeRF model, based on Instant-NGP, and optimized for running on a GAP9 ultra-low-power (ULP) MCU aboard our nano-drones. Then, we further empower our Tiny-DroNeRF by leveraging a collaborative federated learning scheme, which distributes the model training among multiple nano-drones. Our experimental results show a 96% reduction in Tiny-DroNeRF's memory footprint compared to Instant-NGP, with only a 5.7 dB drop in reconstruction accuracy. Finally, our federated learning scheme allows Tiny-DroNeRF to train with an amount of data otherwise impossible to keep in a single drone's memory, increasing the overall reconstruction accuracy. Ultimately, our work combines, for the first time, NeRF training on an ULP MCU with federated learning on nano-drones.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-frFPUBGa0c?si=YjymAMcLbJw5zU1B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics
 E. Cereda, S. Bonato, M. Nava, A. Giusti, and D. Palossi<br/>
 _in Journal of Intelligent & Robotic Systems, vol. 110, 58 (2024)_

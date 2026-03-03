@@ -20,7 +20,7 @@ people:
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
-  - image_path: https://idsia-robotics.github.io/assets/images/default_people.png
+  - image_path: https://idsia-robotics.github.io/assets/images/ilenia_carboni.jpeg
     alt: Ilenia Carboni
     title: Ilenia Carboni
     excerpt: 'PhD Student<br/> [Webpage](https://ileniacarboni.github.io)'
@@ -149,7 +149,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 ## Feb 25 2025
 Two papers from our group accepted at [ICRA 2026](https://2026.ieee-icra.org/):
-- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones," in collaboration with University of Bologna and ETH Zurich.
+- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones," in collaboration with University of Bologna and ETH Zurich. [arxiv preprint](http://arxiv.org/abs/2603.01850), [supplementary video](https://youtu.be/-frFPUBGa0c).
 - “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency,” in collaboration with University of Milan.
 
 ## Feb 24 2026
