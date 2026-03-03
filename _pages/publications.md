@@ -20,7 +20,7 @@ permalink: /publications/
 # Publications
 
 ## Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones
-I. Carboni*, E. Cereda*, L. Lamberti*, D. Malpetti, F. Conti, and D. Palossi<br/>
+I. Carboni\*, E. Cereda\*, L. Lamberti\*, D. Malpetti, F. Conti, and D. Palossi<br/>
 To appear in _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA), 2026_
 
 <div>
