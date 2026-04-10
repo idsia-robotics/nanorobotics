@@ -15,7 +15,7 @@ people:
   - image_path: https://idsia-robotics.github.io/assets/images/elia_cereda.jpg
     alt: Elia Cereda
     title: Elia Cereda
-    excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
+    excerpt: 'Postdoctoral Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
   - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.jpg
     alt: Luca Crupi
     title: Luca Crupi
