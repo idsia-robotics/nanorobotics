@@ -19,6 +19,51 @@ permalink: /publications/
 
 # Publications
 
+## NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics
+E. Cereda, A. Giusti, and D. Palossi<br/>
+Accepted in _IEEE Robotics and Automation Practice (RA-P), 2026_
+
+<div>
+  <a href="https://arxiv.org/abs/2601.07476">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #cereda2026nanocockpit-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #cereda2026nanocockpit-bibtex, #cereda2026nanocockpit-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="cereda2026nanocockpit-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="cereda2026nanocockpit-show"><span /></label></div>
+  <div id="cereda2026nanocockpit-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{cereda2026nanocockpit,
+      title={NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics},
+      author={Elia Cereda and Alessandro Giusti and Daniele Palossi},
+      year={2026},
+      eprint={2601.07476},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2601.07476},
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+        Autonomous nano-drones, powered by vision-based tiny machine learning (TinyML) models, are a novel technology gaining momentum thanks to their broad applicability and pushing scientific advancement on resource-limited embedded systems.
+        Their small form factor, i.e., a few tens of grams, severely limits their onboard computational resources to sub-100mW microcontroller units (MCUs).
+        The Bitcraze Crazyflie nano-drone is the de facto standard, offering a rich set of programmable MCUs for low-level control, multi-core processing, and radio transmission.
+        However, roboticists very often underutilize these onboard precious resources due to the absence of a simple yet efficient software layer capable of time-optimal pipelining of multi-buffer image acquisition, multi-core computation, intra-MCUs data exchange, and Wi-Fi streaming, leading to sub-optimal control performances.
+        Our NanoCockpit framework aims to fill this gap, increasing the throughput and minimizing the system's latency, while simplifying the developer experience through coroutine-based multi-tasking.
+        In-field experiments on three real-world TinyML nanorobotics applications show our framework achieves ideal end-to-end latency, i.e. zero overhead due to serialized tasks, delivering quantifiable improvements in closed-loop control performance (-30% mean position error, mission success rate increased from 40% to 100%).
+    </p>
+  </details>
+</div>
+
 ## Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones
 I. Carboni\*, E. Cereda\*, L. Lamberti\*, D. Malpetti, F. Conti, and D. Palossi<br/>
 To appear in _Proceedings of the 2026 IEEE International Conference on Robotics and Automation (ICRA), 2026_
