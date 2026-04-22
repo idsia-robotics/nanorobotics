@@ -150,8 +150,9 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 <figure style="width: 20%" class="align-left"><img src="/files/ral.png"></figure>
 
 ## Apr 20 2026
-Our journal article “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [arXiv preprint](https://arxiv.org/abs/2601.07476),
-In this work, we propose a high-performance software framework for autonomous applications on nano-UAVs, which became part of the official software stack of the Crazyflie nano-UAV. Check the [GitHub repository](https://github.com/idsia-robotics/nanocockpit) to start using it to build your application.
+Our journal article “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [arXiv preprint](https://arxiv.org/abs/2601.07476).
+
+In this work, we propose a high-performance software framework for autonomous applications on nano-UAVs, which became part of the official software stack of the Crazyflie nano-UAV. Check the [GitHub repository](https://github.com/idsia-robotics/nanocockpit) to start using it to build your applications.
 
 ## Feb 25 2026
 Two papers from our group accepted at [ICRA 2026](https://2026.ieee-icra.org/):
