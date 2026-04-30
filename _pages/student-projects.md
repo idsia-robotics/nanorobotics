@@ -8,6 +8,10 @@ permalink: /student-projects/
 
 # Student projects
 
+We regularly offer student projects based on the research topics of the group, usually in the form of Master Theses and Semester Projects.
+Interested candidates should send their CV and transcripts (BSc and MSc) to the contacts of the relevant project.
+Spontaneous applications for topics not listed here are welcome and will be discussed case-by-case.
+
 <figure style="width: 55%" class="align-right"><img src="/nanorobotics/assets/images/theses/insect.png"></figure>
 
 ## AI-based Maze Escape with an Insect-sized Autonomous Robot
