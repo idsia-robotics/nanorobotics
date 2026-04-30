@@ -17,7 +17,12 @@ Leveraging advances in ultra-low-power hardware architectures and highly optimiz
 Specifically, the project focuses on developing an autonomous visual navigation pipeline for insect-scale legged robots, using the [IsaacLab simulator](https://isaac-sim.github.io/IsaacLab/main/index.html).
 The robot will be tasked with navigating a maze while avoiding collisions with walls. We will also develop optimized on-device continual learning techniques, enabling the robots to adapt to new scenarios autonomously.
 We will explore self-supervised learning through a "learning from crashing" paradigm, mimicking insects that safely bump into objects; these collision events will provide training labels for on-device learning.
- 
+
+**Contacts:**
+Lorenzo Lamberti [llamberti@iis.ee.ethz.ch](llamberti@iis.ee.ethz.ch),
+Elia Cereda [elia.cereda@supsi.ch](elia.cereda@supsi.ch),
+Daniele Palossi [daniele.palossi@supsi.ch](daniele.palossi@supsi.ch).
+
 <figure style="width: 45%" class="align-left"><img src="/nanorobotics/assets/images/theses/vo.png"></figure>
 
 ## Learning-based Visual Odometry aboard Nano-drones
