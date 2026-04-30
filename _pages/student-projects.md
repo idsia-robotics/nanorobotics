@@ -25,7 +25,7 @@ Ilenia Carboni [ilenia.carboni@supsi.ch](ilenia.carboni@supsi.ch),
 Elia Cereda [elia.cereda@supsi.ch](elia.cereda@supsi.ch),
 Daniele Palossi [daniele.palossi@supsi.ch](daniele.palossi@supsi.ch).
 
-<figure style="width: 45%" class="align-left"><img src="/nanorobotics/assets/images/theses/mpc.svg"></figure>
+<figure style="width: 45%" class="align-right"><img src="/nanorobotics/assets/images/theses/mpc.svg"></figure>
 
 ## Embedded Learning-based Model Predictive Control on Agile Nano-drones
 Agile flight and acrobatic maneuvers on quadrotors deal with hard-to-model dynamics and significant disturbances, while operating at the edge of the physical capabilities of the system.
