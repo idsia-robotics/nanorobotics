@@ -8,15 +8,14 @@ permalink: /student-projects/
 
 # Student projects
 
-<figure style="width: 45%" class="align-right"><img src="/nanorobotics/assets/images/theses/insect.png"></figure>
+<figure style="width: 55%" class="align-right"><img src="/nanorobotics/assets/images/theses/insect.png"></figure>
 
 ## AI-based Maze Escape with an Insect-sized Autonomous Robot
 Autonomous insect-scale robots, such as [mCLARI](https://ieeexplore.ieee.org/document/10341588), hold great potential for navigating and interacting within constrained, cluttered, and hazardous environments, such as collapsed structures, narrow pipelines, radioactive sites, and disaster areas—environments inaccessible to larger robots and unsafe for humans.
 However, achieving robust [autonomous onboard intelligence](https://ieeexplore.ieee.org/document/8715489) at insect scales (sub-5 grams, sub-100 milliwatts) remains an unsolved challenge, as their form factor heavily restricts the resources available onboard, including memory, computation, and sensors.
 Leveraging advances in ultra-low-power hardware architectures and highly optimized TinyML algorithms, this thesis aims to take the first steps toward enabling AI-driven perception capabilities aboard insect-scale robotic platforms.
 Specifically, the project focuses on developing an autonomous visual navigation pipeline for insect-scale legged robots, using the [IsaacLab simulator](https://isaac-sim.github.io/IsaacLab/main/index.html).
-The robot will be tasked with navigating a maze while avoiding collisions with walls. We will also develop optimized on-device continual learning techniques, enabling the robots to adapt to new scenarios autonomously.
-We will explore self-supervised learning through a "learning from crashing" paradigm, mimicking insects that safely bump into objects; these collision events will provide training labels for on-device learning.
+The robot will be tasked with navigating a maze while avoiding collisions with walls.
 
 **Contacts:**
 Lorenzo Lamberti [llamberti@iis.ee.ethz.ch](llamberti@iis.ee.ethz.ch),
