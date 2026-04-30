@@ -8,7 +8,7 @@ permalink: /student-projects/
 
 # Student projects
 
-<figure style="width: 20%" class="align-left"><img src="/assets/images/theses/vo.png"></figure>
+<figure style="width: 20%" class="align-left"><img src="/nanorobotics/assets/images/theses/vo.png"></figure>
 
 ## Learning-based Visual Odometry aboard Nano-drones
 Any autonomous robots, including palm-sized nano-drones, navigate thanks to the interaction of three fundamental functional blocks.
@@ -24,7 +24,7 @@ The resulting system will be integrated aboard a [Crazyflie 2.1 brushless nano-d
 Elia Cereda [elia.cereda@idsia.ch](elia.cereda@idsia.ch),
 Daniele Palossi [daniele.palossi@idsia.ch](daniele.palossi@idsia.ch).
 
-<figure style="width: 20%" class="align-left"><img src="/assets/images/theses/mpc.svg"></figure>
+<figure style="width: 20%" class="align-left"><img src="/nanorobotics/assets/images/theses/mpc.svg"></figure>
 
 ## Embedded Learning-based Model Predictive Control on Agile Nano-drones
 Agile flight and acrobatic maneuvers on quadrotors deal with hard-to-model dynamics and significant disturbances, while operating at the edge of the physical capabilities of the system.
