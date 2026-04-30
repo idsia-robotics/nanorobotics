@@ -56,3 +56,16 @@ The resulting system will be integrated aboard a [Crazyflie 2.1 brushless nano-d
 Elia Cereda [elia.cereda@supsi.ch](elia.cereda@supsi.ch),
 Daniele Palossi [daniele.palossi@supsi.ch](daniele.palossi@supsi.ch),
 Dario Piga [dario.piga@supsi.ch](dario.piga@supsi.ch).
+
+## Visual Servoing for Autonomous Nano-drone Racing and Obstacle Avoidance
+
+Palm-sized autonomous nano-drones, i.e., sub-50 g in weight, recently entered the drone racing scenario [(Lamberti et al., 2024)](https://ieeexplore.ieee.org/document/10380668), [(Scarciglia et al.)](https://ieeexplore.ieee.org/abstract/document/11128029/), where they are tasked to avoid obstacles and navigate as fast as possible through gates. However, in contrast with their bigger counterparts, i.e., kg-scale drones, nano-drones expose three orders of magnitude less onboard memory and compute power, demanding more efficient and lightweight vision-based pipelines to win the race.
+ 
+Recent progress in autonomous nano-drone racing has shown the feasibility of two complementary approaches: *i)* [robust visual obstacle avoidance](https://ieeexplore.ieee.org/document/10380668), where a single convolutional neural network (CNN) predicts collision probabilities across the field of view, and *ii)* [map-free gate detection](https://ieeexplore.ieee.org/abstract/document/11128029/) using a lightweight CNN combined with a visual servoing controller. While both modules have been demonstrated fully onboard with real-world tests, they have so far been evaluated in isolation: the drone was either avoiding obstacles or navigating through gates, not running both CNNs simultaneously.
+ 
+This thesis aims to advance the state of the art in autonomous nano-drone racing by: *i)* training new CNN models, leveraging simulated data, to jointly address obstacle avoidance and gate detection, and *ii)* designing a novel drone state machine capable of dynamically switching between avoidance and gate-navigation modes upon gate detection.
+
+**Contacts:**
+Luca Crupi [luca.crupi@supsi.ch](luca.crupi@supsi.ch),
+Lorenzo Lamberti [lorenzo.lamberti@supsi.ch](lorenzo.lamberti@supsi.ch),
+Daniele Palossi [daniele.palossi@supsi.ch](daniele.palossi@supsi.ch).
