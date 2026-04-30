@@ -8,7 +8,7 @@ permalink: /student-projects/
 
 # Student projects
 
-<figure style="width: 20%" class="align-left"><img src="/assets/images/theses/vo.jpg"></figure>
+<figure style="width: 20%" class="align-left"><img src="/assets/images/theses/vo.png"></figure>
 
 ## Learning-based Visual Odometry aboard Nano-drones
 Any autonomous robots, including palm-sized nano-drones, navigate thanks to the interaction of three fundamental functional blocks.
