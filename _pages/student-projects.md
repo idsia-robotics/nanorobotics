@@ -8,7 +8,7 @@ permalink: /student-projects/
 
 # Student projects
 
-<figure style="width: 45%" class="align-right><img src="/nanorobotics/assets/images/theses/insect.png"></figure>
+<figure style="width: 45%" class="align-right"><img src="/nanorobotics/assets/images/theses/insect.png"></figure>
 
 ## AI-based Maze Escape with an Insect-sized Autonomous Robot
 Autonomous insect-scale robots, such as [mCLARI](https://ieeexplore.ieee.org/document/10341588), hold great potential for navigating and interacting within constrained, cluttered, and hazardous environments, such as collapsed structures, narrow pipelines, radioactive sites, and disaster areas—environments inaccessible to larger robots and unsafe for humans.
