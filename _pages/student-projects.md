@@ -63,6 +63,8 @@ Palm-sized autonomous nano-drones, i.e., sub-50 g in weight, recently entered th
  
 Recent progress in autonomous nano-drone racing has shown the feasibility of two complementary approaches: *i)* [robust visual obstacle avoidance](https://ieeexplore.ieee.org/document/10380668), where a single convolutional neural network (CNN) predicts collision probabilities across the field of view, and *ii)* [map-free gate detection](https://ieeexplore.ieee.org/abstract/document/11128029/) using a lightweight CNN combined with a visual servoing controller. While both modules have been demonstrated fully onboard with real-world tests, they have so far been evaluated in isolation: the drone was either avoiding obstacles or navigating through gates, not running both CNNs simultaneously.
  
+<figure style="width: 75%" class="align-center"><img src="/nanorobotics/assets/images/theses/ibvs_oa.png"></figure>
+
 This thesis aims to advance the state of the art in autonomous nano-drone racing by: *i)* training new CNN models, leveraging simulated data, to jointly address obstacle avoidance and gate detection, and *ii)* designing a novel drone state machine capable of dynamically switching between avoidance and gate-navigation modes upon gate detection.
 
 **Contacts:**
