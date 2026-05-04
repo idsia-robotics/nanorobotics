@@ -13,8 +13,8 @@ people:
     title: Dr. Lorenzo Lamberti
     excerpt: 'Postdoctoral Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=Ao6WHDgAAAAJ&hl=en)'
   - image_path: https://idsia-robotics.github.io/assets/images/elia_cereda.jpg
-    alt: Elia Cereda
-    title: Elia Cereda
+    alt: Dr. Elia Cereda
+    title: Dr. Elia Cereda
     excerpt: 'Postdoctoral Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
   - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.jpg
     alt: Luca Crupi
