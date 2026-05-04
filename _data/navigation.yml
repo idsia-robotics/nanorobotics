@@ -5,6 +5,8 @@ main:
     url: "#news"
   - title: "Publications"
     url: "/publications"
+  - title: "Student projects"
+    url: "/student-projects"
   - title: "Robotics Lab"
     url: "https://idsia-robotics.github.io/"
   - title: "IDSIA"
