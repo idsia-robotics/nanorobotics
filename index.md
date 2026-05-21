@@ -147,6 +147,11 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+<figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
+
+## May 21 2026
+Our journal article “A Heterogeneous System-on-Chip with an 83 GFLOp/s, 1.2 TFLOp/s/W Parallel Programmable Accelerator for Real-time On-device Learning in Autonomous Nano-UAVs", in collaboration with University of Bologna and Khalifa University, Abu Dhabi has been accepted for publication in the IEEE Open Journal of the Solid-State Circuits Society. [IEEE](https://ieeexplore.ieee.org/document/11523040).
+
 <figure style="width: 20%" class="align-left"><img src="/files/ral.png"></figure>
 
 ## Apr 20 2026
