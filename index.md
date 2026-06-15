@@ -147,6 +147,13 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+<figure style="width: 25%" class="align-left"><img src="/files/cvpr2026-logo.png"></figure>
+
+## Jun 15 2026
+
+Our paper “TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers”, coauthored by ETH, IDSIA, and UNIBO, received the **Best Paper Award** at the [Embedded Vision Workshop](/https://embeddedvisionworkshop.wordpress.com/) held in conjunction with CVPR 2026. [arXiv preprint](https://arxiv.org/abs/2604.08060), [Video](https://www.youtube.com/watch?v=wUx0V9psvUk).
+
+
 <figure style="width: 20%" class="align-right"><img src="/files/ieee-logo-black.png"></figure>
 
 ## May 21 2026

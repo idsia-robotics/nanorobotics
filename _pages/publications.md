@@ -19,6 +19,49 @@ permalink: /publications/
 
 # Publications
 
+## TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers [Best Paper Award]
+A. Marchei, L. Lamberti, D. Palossi, and L. Benini<br/>
+_Best Paper Award at the Embedded Vision Workshop, CVPR 2026_
+
+<div>
+  <a href="https://arxiv.org/abs/2604.08060">
+    <div class="csl-arxiv"></div>
+  </a>
+  <style type="text/css">
+    input[type='checkbox']:checked ~ #marchei2026tinydevo-bibtex {
+        display: block;
+    }
+    input[type='checkbox'] ~ #marchei2026tinydevo-bibtex, #marchei2026tinydevo-show {
+        display: none;
+    }
+  </style>
+
+  <input type="checkbox" id="marchei2026tinydevo-show" />
+  <div class="csl-bibtex"><label class="csl-label" for="marchei2026tinydevo-show"><span /></label></div>
+  <div id="marchei2026tinydevo-bibtex">
+<!-- careful, whitespace inside <pre> appears as-is on the page -->
+<pre>@misc{marchei2026tinydevo,
+      title={TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers},
+      author={Alessandro Marchei and Lorenzo Lamberti and Daniele Palossi and Luca Benini},
+      year={2026},
+      eprint={2604.08060},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2604.08060},
+}</pre>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      A key task in embedded vision is visual odometry (VO), which estimates camera motion from visual sensors, and it is a core component in many embedded power-constrained systems, from autonomous robots to augmented and virtual reality wearable devices. The newest class of VO systems combines deep learning models with bio-inspired event-based cameras, which are robust to motion blur and lighting conditions. However, state-of-the-art (SoA) event-based VO algorithms require significant memory and computation. For example, the leading approach DEVO requires 733 MB of memory and 155 billion multiply-accumulate (MAC) operations per frame. We present TinyDEVO, an event-based VO deep learning model designed for resource-constrained microcontroller units (MCUs). We deploy TinyDEVO on an ultra-low-power (ULP) 9-core RISC-V-based MCU, achieving a throughput of approximately 1.2 frames per second with an average power consumption of only 86 mW. Thanks to our neural network architectural optimizations and hyperparameter tuning, TinyDEVO reduces the memory footprint by 11.5x (to 63.8 MB) and the number of operations per frame by 29.7x (to 5.2 billion MACs per frame) compared to DEVO, while maintaining an average trajectory error of 27 cm, i.e., only 19 cm higher than DEVO, on three state-of-the-art datasets. Our work demonstrates, for the first time, the feasibility of an event-based VO pipeline on ultra-low-power devices.
+    </p>
+  </details>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wUx0V9psvUk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 ## NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics
 E. Cereda, A. Giusti, and D. Palossi<br/>
 Accepted in _IEEE Robotics and Automation Practice (RA-P), 2026_
