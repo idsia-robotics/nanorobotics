@@ -147,7 +147,7 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
-<figure style="width: 25%" class="align-left"><img src="/files/cvpr2026-logo.png"></figure>
+<figure style="width: 30%" class="align-left"><img src="/files/EVW-CVPR26_best_paper.png"></figure>
 
 ## Jun 15 2026
 
