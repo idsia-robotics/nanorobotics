@@ -38,7 +38,7 @@ people:
 <link rel="stylesheet" href="{{'/assets/css/csl-blocks.css'| relative_url }}">
 
 <style>
-  
+
   body {
     text-align: justify
   }
@@ -103,7 +103,7 @@ people:
       margin-bottom: 1.5em;
       width: 30%; /* update depending on number of columns, 3: 30%, 4: 24% */
     }
-  
+
     /* 4-column grid instead of 3-column */
     /*
     .feature__item:nth-child(3n + 1) {
@@ -147,6 +147,13 @@ Thanks to the close partnership with the Parallelel Ultra-low Power internationa
 
 # News
 
+<figure style="width: 20%" class="align-right"><img src="/files/hasler.png"></figure>
+
+## Jun 23 2026
+
+Our group was recently awarded competitive funding for the **Hasler project** “Tiny-ANT: TinyML Continual-learning for Autonomous Navigation on Insect-sized Robots”  (ID: 2026-05-13-944) for a total budget of 50k.
+The project will develop lightweight visual-navigation deep neural networks and on-device learning methods tailored to insect-sized robots with only a few tens of milliwatts available for sensing and computation.
+
 <figure style="width: 30%" class="align-left"><img src="/files/EVW-CVPR26_best_paper.png"></figure>
 
 ## Jun 15 2026
@@ -181,7 +188,7 @@ Two papers from our group accepted at [ICRA 2026](https://2026.ieee-icra.org/):
 
 Our group was recently awarded competitive funding for three research projects:
 
- * **SNSF Project Funding** "RoboMix2: Mixed Event-frame-based On-device Learning on Mixed Spiking-artificial Neural Networks for Robotics" in collaboration with ETH Zurich and University of Bologna with a total budget of CHF 1.6M. 
+ * **SNSF Project Funding** "RoboMix2: Mixed Event-frame-based On-device Learning on Mixed Spiking-artificial Neural Networks for Robotics" in collaboration with ETH Zurich and University of Bologna with a total budget of CHF 1.6M.
    The project aims to develop an ultra-low-power neuromorphic computing platform for visual odometry on both ground and aerial miniaturized robots, integrating mixed event-frame sensing, hybrid SNN–ANN processing, and on-device continual TinyML learning through hardware–software co-design.
    [SNSF](https://data.snf.ch/grants/grant/10004854)
  * **EU Interreg project** "ALP-AI" in collaboration with Politecnico di Milano, ARPA Lombardia, Parco Regionale Campo dei Fiori, and the Cantonal Phytosanitary Service of Canton Ticino.
@@ -227,12 +234,12 @@ The paper, "Multi-resolution Rescored ByteTrack for Video Object Detection on Ul
 <figure style="width: 30%" class="align-right"><img src="/files/springer-logo.png"></figure>
 
 ## Apr 10 2024
-Our new journal article, “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics,” has just been accepted for publication in the [Springer Journal of Intelligent & Robotic Systems](https://link.springer.com/journal/10846). [Springer open access](https://link.springer.com/article/10.1007/s10846-024-02091-6). 
+Our new journal article, “Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics,” has just been accepted for publication in the [Springer Journal of Intelligent & Robotic Systems](https://link.springer.com/journal/10846). [Springer open access](https://link.springer.com/article/10.1007/s10846-024-02091-6).
 
 <figure style="width: 15%" class="align-left"><img src="/files/logo_erf_ver_01.png"></figure>
 
 ## Mar 15 2024
-Our new paper, “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones,” was presented at the [European Robotics Forum 2024](https://erf2024.eu/). [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
+Our new paper, “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones,” was presented at the [European Robotics Forum 2024](https://erf2024.eu/). [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf).
 
 <figure style="width: 30%" class="align-right"><img src="/files/logo_dcoss.png"></figure>
 
