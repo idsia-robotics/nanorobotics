@@ -20,7 +20,7 @@ people:
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
-  - image_path: https://idsia-robotics.github.io/assets/images/ilenia_carboni.jpeg
+  - image_path: https://idsia-robotics.github.io/assets/images/ilenia_carboni.jpg
     alt: Ilenia Carboni
     title: Ilenia Carboni
     excerpt: 'PhD Student<br/> [Webpage](https://ileniacarboni.github.io)'
@@ -172,6 +172,8 @@ Our journal article “A Heterogeneous System-on-Chip with an 83 GFLOp/s, 1.2 TF
 Our journal article “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [arXiv preprint](https://arxiv.org/abs/2601.07476).
 
 In this work, we propose a high-performance software framework for autonomous applications on nano-UAVs, which became part of the official software stack of the Crazyflie nano-UAV. Check the [GitHub repository](https://github.com/idsia-robotics/nanocockpit) to start using it to build your applications.
+
+<figure style="width: 30%" class="align-left"><img src="/assets/images/ICRA2026-Logo-Vienna.png"></figure>
 
 ## Feb 25 2026
 Two papers from our group accepted at [ICRA 2026](https://2026.ieee-icra.org/):
