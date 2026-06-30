@@ -173,7 +173,7 @@ Our journal article “NanoCockpit: Performance-optimized Application Framework 
 
 In this work, we propose a high-performance software framework for autonomous applications on nano-UAVs, which became part of the official software stack of the Crazyflie nano-UAV. Check the [GitHub repository](https://github.com/idsia-robotics/nanocockpit) to start using it to build your applications.
 
-<figure style="width: 30%" class="align-left"><img src="/assets/images/ICRA2026-Logo-Vienna.png"></figure>
+<figure style="width: 30%" class="align-right"><img src="assets/images/ICRA2026-Logo-Vienna.png"></figure>
 
 ## Feb 25 2026
 Two papers from our group accepted at [ICRA 2026](https://2026.ieee-icra.org/):
