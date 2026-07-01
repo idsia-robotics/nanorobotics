@@ -20,7 +20,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nanorobotics Group"
+title                    : "Nano-Robotics Group"
 subtitle                 : "Research group on miniaturized Unmanned Aerial Vehicles (nano-UAVs)"
 title_separator          : "-"
 name                     : "IDSIA Nanorobotics"
