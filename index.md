@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Nano-Robotics Group
+title: Nano-Robotics Group at IDSIA, SUPSI
 header:
   image: /assets/images/header.jpg
 people:
@@ -136,7 +136,7 @@ people:
 # About
 
 <!--<figure style="width: 30%" class="group-photo align-right"><img src="assets/images/nanorobotics_group.jpg"></figure>-->
-The Nano-Robotics research group at IDSIA focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
+The Nano-Robotics research group at IDSIA, SUPSI focuses its scientific effort on improving the onboard intelligence of ultra-constrained miniaturized robotic platforms aiming at the same capability as biological systems.
 By leveraging Artificial Intelligence-based (AI) algorithms, some of the research areas encompass optimized ultra-low power embedded Cyber-Physical Systems (CPS), deep learning models for energy-efficient perception pipelines, multi-modal ultra-low power sensor fusion, Human-Robot Interaction (HRI) applications, and Cyber-secure systems for Microcontroller Units-class (MCUs).
 
 Thanks to the close partnership with the Parallelel Ultra-low Power international research project ([PULP Platform](https://pulp-platform.org/)), the Nano-Robotics group at IDSIA boasts strong collaborations with the ETH Zürich, the University of Bologna, and the Polytechnic University of Torino.
@@ -169,7 +169,7 @@ Our journal article “A Heterogeneous System-on-Chip with an 83 GFLOp/s, 1.2 TF
 <figure style="width: 20%" class="align-left"><img src="/files/ral.png"></figure>
 
 ## Apr 20 2026
-Our journal article “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [arXiv preprint](https://arxiv.org/abs/2601.07476).
+Our journal article “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [arXiv preprint](https://arxiv.org/abs/2601.07476), [IEEE](https://ieeexplore.ieee.org/abstract/document/11494460).
 
 In this work, we propose a high-performance software framework for autonomous applications on nano-UAVs, which became part of the official software stack of the Crazyflie nano-UAV. Check the [GitHub repository](https://github.com/idsia-robotics/nanocockpit) to start using it to build your applications.
 
