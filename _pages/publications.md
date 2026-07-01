@@ -70,6 +70,12 @@ Accepted in _IEEE Robotics and Automation Practice (RA-P), 2026_
   <a href="https://arxiv.org/abs/2601.07476">
     <div class="csl-arxiv"></div>
   </a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11494460">
+    <div class="csl-ieee"></div>
+  </a>
+  <a href="https://github.com/idsia-robotics/nanocockpit">
+    <div class="csl-github"></div>
+  </a>
   <style type="text/css">
     input[type='checkbox']:checked ~ #cereda2026nanocockpit-bibtex {
         display: block;
