@@ -16,6 +16,10 @@ people:
     alt: Dr. Elia Cereda
     title: Dr. Elia Cereda
     excerpt: 'Postdoctoral Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
+  - image_path: https://idsia-robotics.github.io/assets/images/luca_bompani.jpeg
+    alt: Dr. Luca Bompani
+    title: Dr. Luca Bompani
+    excerpt: 'Postdoctoral Researcher<br/> [Webpage](https://www.linkedin.com/in/luca-bompani-3035791b1/)'
   - image_path: https://idsia-robotics.github.io/assets/images/luca_crupi.jpg
     alt: Luca Crupi
     title: Luca Crupi
